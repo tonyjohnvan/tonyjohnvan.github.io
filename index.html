@@ -166,6 +166,12 @@
 
         </div>
     </div>
+
+    <div class="video-wrap">
+        <video id="introVideo" poster="video/thumb.jpg" preload="auto" loop autoplay muted >
+            <source src='video/NYA720.mp4' type='video/mp4'/>
+        </video>
+    </div>
 </section>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--/* END Intro  */-->
@@ -741,21 +747,21 @@
         "use strict";
 
         //if mobile device, replace video background with background image (video background is restricted on mobile devices)
-        if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-            $.backstretch('img/background1.jpg');
-        }
-
-        else{
-            $.okvideo({
-                source: 'https://www.youtube.com/watch?v=kn-1D5z3-Cs',  // enter here the url of your vimeo or youtube video
-                autoplay: true,
-                loop: true,
-                highdef: true,
-                hd: true,
-                adproof: true,
-                volume: 0 // video volume value from 0 (mute) to 100
-            })
-        }
+//        if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+//            $.backstretch('img/background1.jpg');
+//        }
+//
+//        else{
+//            $.okvideo({
+//                source: 'https://www.youtube.com/watch?v=kn-1D5z3-Cs',  // enter here the url of your vimeo or youtube video
+//                autoplay: true,
+//                loop: true,
+//                highdef: true,
+//                hd: true,
+//                adproof: true,
+//                volume: 0 // video volume value from 0 (mute) to 100
+//            })
+//        }
 
 
         $("#owl-main-text").owlCarousel({
@@ -768,9 +774,35 @@
             transitionStyle: "fadeUp",
             singleItem: true
         });
+        $(window).resize(function(){
+            resizeVideoBG();
+        });
+        resizeVideoBG();
     });
 
-
+    function resizeVideoBG() {
+         intoDiv = $("#intro");
+         intoVideo = $("#introVideo");
+         h2wRation = intoVideo.width() / intoVideo.height();
+        if(intoDiv.height()>intoVideo.height()){
+            intoVideo.width(intoDiv.height() * h2wRation);
+        }
+        if(intoDiv.width()>intoVideo.width()){
+            intoVideo.width(intoDiv.width());
+        }
+//        if( $("#intro").height()>
+//                ||
+//            $("#intro").width()<
+//                ){
+//            $("#introVideo").height($("#intro").height());
+//        }
+//        if( $("#intro").width()>$("#introVideo").width()
+//                ||
+//            $("#intro").height()<$("#introVideo").height()
+//                ){
+//            $("#introVideo").width($("#intro").width());
+//        }
+    }
 
 </script>
 

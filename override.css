@@ -78,6 +78,35 @@
     margin-top: 45px;
 }
 
-.intoPara{
-    text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+.intoPara {
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
 }
+
+/* Video Overlay
+-----------------------------------------------------------------*/
+
+.video-wrap {
+    overflow: hidden;
+    width: 100%;
+    position: absolute;
+    z-index: 0;
+    top: 0px;
+}
+
+.video-wrap video {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+}
+
+.video-overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 5;
+    /*background: transparent url('images/grid.png') repeat;*/
+    -webkit-backface-visibility: hidden;
+}
+

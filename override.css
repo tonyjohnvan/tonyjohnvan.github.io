@@ -110,3 +110,6 @@
     -webkit-backface-visibility: hidden;
 }
 
+#IntroContent{
+    z-index: 20;
+}

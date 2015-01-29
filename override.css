@@ -101,8 +101,7 @@
     }
 
     #owl-main-text {
-        height: 40px;
-        margin-top: 105px;
+        height: 50px;
     }
 }
 
@@ -115,6 +114,7 @@
 
     #owl-main-text {
         height: 120px;
+
         margin-top: 75px;
 
     }

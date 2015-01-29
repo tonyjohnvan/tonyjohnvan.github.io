@@ -86,7 +86,7 @@
 @media only screen and (max-width: 1280px) {
 
     #owl-main-text {
-        margin-top: 75px;
+        margin-top: 45px;
     }
 
     #owl-main-text h2 {
@@ -101,7 +101,7 @@
     }
 
     #owl-main-text {
-        height: 130px;
+        height: 50px;
     }
 }
 
@@ -114,6 +114,8 @@
 
     #owl-main-text {
         height: 120px;
+        margin-top: 75px;
+
     }
 
 }
@@ -126,7 +128,7 @@
     }
 
     #owl-main-text {
-        margin-top: 40px;
+        margin-top: 20px;
     }
 }
 

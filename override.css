@@ -82,6 +82,54 @@
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
 }
 
+/* Note: Design for a width of 1024px */
+@media only screen and (max-width: 1280px) {
+
+    #owl-main-text {
+        margin-top: 75px;
+    }
+
+    #owl-main-text h2 {
+        font-size: 35px;
+    }
+}
+
+/* Note: Design for a width of 768px */
+@media only screen and (max-width: 1024px) {
+    #owl-main-text h2 {
+        font-size: 35px;
+    }
+
+    #owl-main-text {
+        height: 130px;
+    }
+}
+
+/* Note: Design for a width of 320px */
+@media only screen and (max-width: 568px) {
+
+    #owl-main-text h2 {
+        font-size: 20px;
+    }
+
+    #owl-main-text {
+        height: 120px;
+    }
+
+}
+
+/*and (orientation : landscape) */
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (orientation: landscape) {
+    #owl-main-text {
+        height: 90px;
+        margin-top: 40px;
+    }
+
+    #owl-main-text {
+        margin-top: 40px;
+    }
+}
+
 /* Video Overlay
 -----------------------------------------------------------------*/
 
@@ -110,6 +158,6 @@
     -webkit-backface-visibility: hidden;
 }
 
-#IntroContent{
+#IntroContent {
     z-index: 20;
 }

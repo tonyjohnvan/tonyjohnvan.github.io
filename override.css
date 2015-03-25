@@ -164,3 +164,8 @@
 #IntroContent {
     z-index: 20;
 }
+
+.textSepLogo{
+    top: 150px;
+    right: 100px;
+}

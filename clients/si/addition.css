@@ -1,0 +1,13 @@
+.portfolio-carousel-item .title-minimal {
+    font-size: 60px;
+    height: 32px;
+    overflow: hidden;
+}
+
+.portfolio-carousel-item .title-minimal strong {
+    padding-left: 10px;
+}
+
+.imgoverlay:hover .overlaycaption .separator-small span {
+    width: 60px;
+}

@@ -2,183 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bec1d80d-fafc-426e-911e-a324406bcd1e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/original/0325_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/original/0325_10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/original/0325_11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/original/0325_12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/original/0325_13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/original/0325_14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/original/0325_15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/original/0325_16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/original/0325_17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/original/0325_18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/original/0325_19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/original/0325_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/original/0325_20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/original/0325_21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/original/0325_22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/original/0325_23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/original/0325_24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/original/0325_25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/original/0325_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/original/0325_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/original/0325_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/original/0325_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/original/0325_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/original/0325_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/original/0325_9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/uploads/1690x1100-light.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/uploads/1690x1100.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/uploads/800x1200.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/uploads/800x600.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/jplayer/Jplayer.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/uploads/Logo.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/fonts/Pe-icon-7-stroke.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/fonts/Pe-icon-7-stroke.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/fonts/Pe-icon-7-stroke.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/thumb/about.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/arrow_large_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/arrow_large_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/arrow_large_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/arrow_large_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/arrow_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/arrow_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/arrow_left2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/arrow_left2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/arrow_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/arrow_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/arrow_right2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/arrow_right2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/arrowleft.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/arrowleft.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/arrowright.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/arrowright.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/arrows.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/arrows.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/black50.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/black50.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/boxed_bgtile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/boxed_bgtile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/bullet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/bullet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/bullet_boxed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/bullet_boxed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/bullets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/bullets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/bullets.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/bullets.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/bullets2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/bullets2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/uploads/coffee.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/uploads/coffee.ogv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/uploads/coffee.webm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/coloredbg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/coloredbg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/thumb/contact.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/jplayer/controls.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/jplayer/controls@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/images/decor_inside.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/images/decor_inside_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/images/decor_testimonial.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/uploads/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/images/gradient/g30.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/images/gradient/g40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/thumb/gallery.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/grain.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/grain.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/gridtile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/gridtile_3x3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/gridtile_3x3_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/gridtile_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/img/thumb/home.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/large_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/large_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/large_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/large_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/loader2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/loader2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/uploads/logo-placeholder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/uploads/map-pin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/navigdots.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/navigdots.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/navigdots_bgtile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/navigdots_bgtile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/uploads/pond-logo-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/uploads/pond-logo-light@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/uploads/pond-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/uploads/pond-logo@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/font/revicons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/font/revicons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/font/revicons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/shadow1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/shadow1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/shadow2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/shadow2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/shadow3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/shadow3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/small_arrows.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/small_arrows.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/small_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/small_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/small_left_boxed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/small_left_boxed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/small_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/small_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/small_right_boxed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/small_right_boxed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/timer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/timer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/timerdot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/timerdot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/transparent.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/transparent.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/uploads/transparent.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/assets/white50.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/white50.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/fonts/Pe-icon-7-stroke.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/css/colored.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/css/fancybox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/css/isotope.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/jplayer/jplayer.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/js/jquery-1.9.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/js/jquery.bgvideo.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/js/jquery.counter.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/js/jquery.easing.1.3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/js/jquery.easing.compatibility.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/js/jquery.fancybox.pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/js/jquery.fitvids.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/js/jquery.isotope.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/jplayer/jquery.jplayer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/js/jquery.owl.carousel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/js/jquery.pace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/js/jquery.parallax.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/js/jquery.scroll.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/js/jquery.themepunch.enablelog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/js/jquery.themepunch.revolution.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/js/jquery.themepunch.revolution.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/js/jquery.themepunch.tools.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/js/jquery.visible.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/css/mqueries.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/css/owl.carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/css/owl.transitions.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/css/pe-icon-7-stroke.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/js/pond-form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/js/pond-header.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/js/retina.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/font/revicons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/js/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/css/settings-ie8.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/rs-plugin/css/settings.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/files/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/addition.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/index.html" afterPath="$PROJECT_DIR$/clients/si/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tonyjohnvan.iws" />
@@ -207,14 +32,24 @@
           <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/clients/si/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.48295453" vertical-offset="0" max-vertical-offset="3000">
-                  <caret line="17" column="77" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+                <state vertical-scroll-proportion="0.5383663" vertical-offset="930" max-vertical-offset="2925">
+                  <caret line="91" column="108" selection-start-line="91" selection-start-column="74" selection-end-line="91" selection-end-column="74" />
                   <folding>
                     <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="addition.css" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/clients/si/addition.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+                  <caret line="7" column="101" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -236,7 +71,7 @@
           <file leaf-file-name="override.css" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/override.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6503623" vertical-offset="1696" max-vertical-offset="2640">
+                <state vertical-scroll-proportion="0.43833944" vertical-offset="1696" max-vertical-offset="2640">
                   <caret line="137" column="57" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
                   <folding />
                 </state>
@@ -271,14 +106,15 @@
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/override.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/clients/si/addition.css" />
         <option value="$PROJECT_DIR$/clients/si/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="1047" />
-    <option name="height" value="787" />
+    <option name="width" value="1920" />
+    <option name="height" value="1054" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -340,54 +176,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="si" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonyjohnvan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonyjohnvanSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="clients" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="si" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonyjohnvan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonyjohnvanSite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="clients" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="si" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -473,15 +261,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1047" height="787" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="22" width="1920" height="1054" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1492109" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10788382" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29727095" sideWeight="0.67" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16061085" sideWeight="0.67" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -772,7 +560,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/override.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6503623" vertical-offset="1696" max-vertical-offset="2640">
+        <state vertical-scroll-proportion="0.43833944" vertical-offset="1696" max-vertical-offset="2640">
           <caret line="137" column="57" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
           <folding />
         </state>
@@ -842,10 +630,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/clients/si/addition.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+          <caret line="7" column="101" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/clients/si/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48295453" vertical-offset="0" max-vertical-offset="3000">
-          <caret line="17" column="77" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.5383663" vertical-offset="930" max-vertical-offset="2925">
+          <caret line="91" column="108" selection-start-line="91" selection-start-column="74" selection-end-line="91" selection-end-column="74" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />

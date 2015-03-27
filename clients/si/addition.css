@@ -24,8 +24,12 @@ nav#main-nav .nav-inner ul li a,
 .srcaption-bigwhite,
 .main-title,
 .alttitle,
-p,h1,h2,h3,h4,h5{
+p,h1,h2,h3,h4,h5,a,
+span,li,ul,ol,strong{
     font-family: ChineseLi !important;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 .srcaption-bigwhite,

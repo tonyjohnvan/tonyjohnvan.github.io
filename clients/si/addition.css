@@ -23,3 +23,16 @@ nav#main-nav .nav-inner ul li a,
 .alttitle{
     font-family: ChineseLi !important;
 }
+
+.srcaption-bigwhite,
+.overlay-name{
+    text-shadow: 1px 1px 8px rgba(0,0,0,0.2);
+}
+.skill .tooltip{
+    width: 300px;
+}
+.content-center{
+    margin-right: auto !important;
+    float: center !important;
+    margin-left: auto;
+}

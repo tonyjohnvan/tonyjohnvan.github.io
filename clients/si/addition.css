@@ -25,7 +25,9 @@ nav#main-nav .nav-inner ul li a,
 .main-title,
 .alttitle,
 p,h1,h2,h3,h4,h5,h6,
-span,li,ul,ol,strong{
+span,li,ul,ol,strong,
+#portfolio-filter a,
+.sr-button{
     font-family: ChineseLi !important;
 
     -webkit-font-smoothing: antialiased;

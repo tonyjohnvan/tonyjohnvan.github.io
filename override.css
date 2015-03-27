@@ -1,3 +1,9 @@
+@font-face {
+    font-family: ChineseLi;
+    src: url(fonts/ProNW3.otf);
+}
+
+
 @-webkit-keyframes scroll {
     0% {
         opacity: 1;
@@ -169,3 +175,6 @@
     top: 150px;
     right: 100px;
 }
+
+
+/*Chinese Font Override*/

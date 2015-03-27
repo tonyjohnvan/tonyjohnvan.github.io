@@ -5,32 +5,35 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
 <head>
 
-    <!-- DEFAULT META TAGS -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <title>找不到頁面喔</title>
-    <!-- DEFAULT META TAGS -->
+<!-- DEFAULT META TAGS -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>製品展覽</title>
+<!-- DEFAULT META TAGS -->
 
-    <!-- FONTS -->
-    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
-    <!-- FONTS -->
+<!-- FONTS -->
+<link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+<!-- FONTS -->
 
-    <!-- CSS -->
-    <link rel='stylesheet' id='default-style-css'  href='files/css/style.css' type='text/css' media='all' />
-    <link rel="stylesheet" id='fontawesome-style-css' href="files/css/font-awesome.min.css" type="text/css" media="all" />
-    <link rel="stylesheet" id='pe-icons-style-css' href="files/css/pe-icon-7-stroke.css" type="text/css" media="all" />
-    <link rel='stylesheet' id='mqueries-style-css'  href='files/css/mqueries.css' type='text/css' media='all' />
-    <!-- CSS -->
+<!-- CSS -->
+<link rel='stylesheet' id='default-style-css'  href='files/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='isotope-style-css'  href='files/css/isotope.css' type='text/css' media='all' />
+<link rel="stylesheet" id='rsplugin-style-css' href="files/rs-plugin/css/settings.css" type="text/css" media="all" />
+<link rel="stylesheet" id='fontawesome-style-css' href="files/css/font-awesome.min.css" type="text/css" media="all" />
+<link rel="stylesheet" id='pe-icons-style-css' href="files/css/pe-icon-7-stroke.css" type="text/css" media="all" />
+<link rel='stylesheet' id='mqueries-style-css'  href='files/css/mqueries.css' type='text/css' media='all' />
+<link rel='stylesheet' id='additional-css'  href='addition.css' type='text/css' media='all' />
+<!-- CSS -->
 
-    <!-- FAVICON -->
-    <link rel="shortcut icon" href="files/uploads/favicon.png"/>
-    <!-- FAVICON -->
+<!-- FAVICON -->
+<link rel="shortcut icon" href="files/uploads/favicon.png"/>
+<!-- FAVICON -->
 
-    <!-- JQUERY LIBRARY -->
-    <script src="files/js/jquery-1.9.1.min.js"></script>
-    <!-- JQUERY LIBRARY -->
+<!-- JQUERY LIBRARY -->
+<script src="files/js/jquery-1.9.1.min.js"></script>
+<!-- JQUERY LIBRARY -->
 
 </head>
 
@@ -45,9 +48,9 @@
 
 <!-- PAGELOADER -->
 <div id="page-loader" class="text-light">
-    <div class="page-loader-inner">
-        <div class="loader-logo-name"><img src="files/uploads/pond-logo-light.png" alt="Logo"/></div>
-        <h6 class="alttitle title-minimal">Loading</h6>
+	<div class="page-loader-inner">
+    	<div class="loader-logo-name"><img src="files/uploads/pond-logo-light.png" alt="Logo"/></div>
+        <h6 class="alttitle title-minimal">奮力加載中…</h6>
     </div>
 </div>
 <!-- PAGELOADER -->
@@ -55,9 +58,9 @@
 <!-- PAGE CONTENT -->
 <div id="page-content">
 
-    <!-- HEADER -->
-    <header id="header">
-        <div class="header-inner clearfix">
+	<!-- HEADER -->
+	<header id="header" class="overlay-bottom">
+		<div class="header-inner clearfix">
 
             <!-- DEFAULT HEADER CONTENT -->
             <div class="default-header-content">
@@ -73,8 +76,8 @@
                         <div class="nav-inner">
                             <ul>
                                 <li><a href="index.html" data-bigletter="引">主頁</a></li>
-                                <li class=""><a href="home.html" data-bigletter="介">關於我們</a></li>
-                                <li><a href="gallery.html" data-bigletter="覽">製品展覽</a></li>
+                                <li><a href="home.html" data-bigletter="介">關於我們</a></li>
+                                <li class="current-menu-item"><a href="gallery.html" data-bigletter="覽">製品展覽</a></li>
                                 <li><a href="work.html" data-bigletter="藝">匠心獨運</a></li>
                                 <li><a href="blog.html" data-bigletter="文">部落閣</a></li>
                                 <li><a href="contact.html" data-bigletter="製">獨家定製</a></li>
@@ -96,30 +99,435 @@
             </div>
             <!-- DEFAULT HEADER CONTENT -->
 
-        </div> <!-- END .header-inner -->
-    </header> <!-- END header -->
-    <!-- HEADER -->
+		</div> <!-- END .header-inner -->
+	</header> <!-- END header -->
+	<!-- HEADER -->
 
 
-    <!-- PAGE TITLE -->
-    <section id="page-title" class="full-height" style="background:url(files/img/original/0325_19.jpg) center center;background-size:cover;">
-        <div class="section-inner align-center text-light">
-            <h1 data-bigletter="404"><strong>404</strong></h1>
-            <div class="separator"><span></span></div>
-            <h5 class="alttitle title-minimal">不要著急不要著急，這個頁面還沒製作呢，快返回到上一頁去吧</h5>
-        </div>
-    </section>
-    <!-- PAGE TITLE -->
+	<!-- Work (SLIDER) -->
+	<section id="work-slider" class="notoppadding text-light">
+		<div class="section-inner">
 
-    <!-- FOOTER -->
-    <footer class="sticky-footer">
-        <div class="footer-inner wrapper">
-            <div class="copyright right-float">
-                Copyright &copy; 2015 by TJVStudio.
-            </div>
-        </div>
-    </footer>
-    <!-- FOOTER -->
+		<!-- REVOLUTION SLIDER -->
+		<div class="rev-slider-container">
+			<div class="rev-slider" >
+				<ul>
+
+					<!-- THE FIRST SLIDE -->
+					<li data-transition="slidedown" data-slotamount="5" data-masterspeed="1200" >
+						<!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
+						<img src="files/img/original/0325_18.jpg"   alt="slidebg4"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+					</li> <!-- end first slide -->
+
+					<!-- THE SECOND SLIDE -->
+					<li data-transition="slidedown" data-slotamount="5" data-masterspeed="1200" >
+						<!-- THE MAIN IMAGE IN THE SECOND SLIDE -->
+						<img src="files/img/original/0325_2.jpg"   alt="slidebg4"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+					</li>
+
+					<!-- THE THIRD SLIDE -->
+					<li data-transition="slidedown" data-slotamount="5" data-masterspeed="1200" >
+						<!-- THE MAIN IMAGE IN THE SECOND SLIDE -->
+						<img src="files/img/original/0325_3.jpg"   alt="slidebg2"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+					</li>
+
+				</ul>
+
+			</div>
+		</div> <!-- END .rev-slider-container -->
+		<!-- REVOLUTION SLIDER -->
+
+		</div>
+	</section>
+	<!-- HOME (SLIDER) -->
+
+
+	<!-- PAGEBODY -->
+	<div class="page-body">
+
+		<!-- GALLERY SECTION -->
+		<section id="portfolio" class="notoppadding">
+			<div class="section-inner">
+
+				<div id="portfolio-grid" class="masonry portfolio-entries clearfix" data-maxitemwidth="600" style="background: #555">
+
+				<div class="portfolio-masonry-entry masonry-item branding">
+					<div class="entry-thumb portfolio-thumb">
+						<div class="imgoverlay overlay-transparent name-hidden">
+							<img src="files/img/original/0325_1.jpg" alt="SEO IMAGE NAME">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>製品</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">勳章製品</h6>
+							</div>
+							<a href="works/work-001.html" class="transition"></a>
+						</div>
+				   </div>
+				</div> <!-- END .portfolio-masonry-entry -->
+
+				<div class="portfolio-masonry-entry masonry-item print">
+					<div class="entry-thumb portfolio-thumb">
+						<div class="imgoverlay overlay-transparent name-hidden">
+							<img src="files/img/original/0325_2.jpg" alt="SEO IMAGE NAME">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>製品</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">畫作製品</h6>
+							</div>
+							<a href="works/work-001.html" class="transition"></a>
+						</div>
+				   </div>
+				</div> <!-- END .portfolio-masonry-entry -->
+
+				<div class="portfolio-masonry-entry masonry-item branding">
+					<div class="entry-thumb portfolio-thumb">
+						<div class="imgoverlay overlay-transparent name-hidden">
+							<img src="files/img/original/0325_3.jpg" alt="SEO IMAGE NAME">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>製品</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">勳章製品</h6>
+							</div>
+							<a href="works/work-001.html" class="transition"></a>
+						</div>
+				   </div>
+				</div> <!-- END .portfolio-masonry-entry -->
+
+				<div class="portfolio-masonry-entry masonry-item print">
+					<div class="entry-thumb portfolio-thumb">
+						<div class="imgoverlay overlay-transparent name-hidden">
+							<img src="files/img/original/0325_4.jpg" alt="SEO IMAGE NAME">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>製品</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">畫作製品</h6>
+							</div>
+							<a href="portfolio-single2.html" class="transition"></a>
+						</div>
+				   </div>
+				</div> <!-- END .portfolio-masonry-entry -->
+
+				<div class="portfolio-masonry-entry masonry-item print">
+					<div class="entry-thumb portfolio-thumb">
+						<div class="imgoverlay overlay-transparent name-hidden">
+							<img src="files/img/original/0325_5.jpg" alt="SEO IMAGE NAME">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>製品</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">畫作製品</h6>
+							</div>
+							<a href="works/work-001.html" class="transition"></a>
+						</div>
+				   </div>
+				</div> <!-- END .portfolio-masonry-entry -->
+
+				<div class="portfolio-masonry-entry masonry-item branding">
+					<div class="entry-thumb portfolio-thumb">
+						<div class="imgoverlay overlay-transparent name-hidden">
+							<img src="files/img/original/0325_6.jpg" alt="SEO IMAGE NAME">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>製品</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">勳章製品</h6>
+							</div>
+							<a href="works/work-001.html" class="transition"></a>
+						</div>
+				   </div>
+				</div> <!-- END .portfolio-masonry-entry -->
+
+				<div class="portfolio-masonry-entry masonry-item branding">
+					<div class="entry-thumb portfolio-thumb">
+						<div class="imgoverlay overlay-transparent name-hidden">
+							<img src="files/img/original/0325_7.jpg" alt="SEO IMAGE NAME">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>製品</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">勳章製品</h6>
+							</div>
+							<a href="works/work-001.html" class="transition"></a>
+						</div>
+				   </div>
+				</div> <!-- END .portfolio-masonry-entry -->
+
+				<div class="portfolio-masonry-entry masonry-item branding">
+					<div class="entry-thumb portfolio-thumb">
+						<div class="imgoverlay overlay-transparent name-hidden">
+							<img src="files/img/original/0325_8.jpg" alt="SEO IMAGE NAME">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>製品</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">勳章製品</h6>
+							</div>
+							<a href="works/work-001.html" class="transition"></a>
+						</div>
+				   </div>
+				</div> <!-- END .portfolio-masonry-entry -->
+
+				<div class="portfolio-masonry-entry masonry-item branding">
+					<div class="entry-thumb portfolio-thumb">
+						<div class="imgoverlay overlay-transparent name-hidden">
+							<img src="files/img/original/0325_9.jpg" alt="SEO IMAGE NAME">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>製品</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">勳章製品</h6>
+							</div>
+							<a href="works/work-001.html" class="transition"></a>
+						</div>
+				   </div>
+				</div> <!-- END .portfolio-masonry-entry -->
+
+				<div class="portfolio-masonry-entry masonry-item branding">
+					<div class="entry-thumb portfolio-thumb">
+						<div class="imgoverlay overlay-transparent name-hidden">
+							<img src="files/img/original/0325_10.jpg" alt="SEO IMAGE NAME">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>製品</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">勳章製品</h6>
+							</div>
+							<a href="works/work-001.html" class="transition"></a>
+						</div>
+				   </div>
+				</div> <!-- END .portfolio-masonry-entry -->
+
+				<div class="portfolio-masonry-entry masonry-item branding">
+					<div class="entry-thumb portfolio-thumb">
+						<div class="imgoverlay overlay-transparent name-hidden">
+							<img src="files/img/original/0325_11.jpg" alt="SEO IMAGE NAME">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>製品</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">勳章製品</h6>
+							</div>
+							<a href="works/work-001.html" class="transition"></a>
+						</div>
+				   </div>
+				</div> <!-- END .portfolio-masonry-entry -->
+
+				<div class="portfolio-masonry-entry masonry-item branding">
+					<div class="entry-thumb portfolio-thumb">
+						<div class="imgoverlay overlay-transparent name-hidden">
+							<img src="files/img/original/0325_12.jpg" alt="SEO IMAGE NAME">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>製品</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">勳章製品</h6>
+							</div>
+							<a href="works/work-001.html" class="transition"></a>
+						</div>
+				   </div>
+				</div> <!-- END .portfolio-masonry-entry -->
+
+				<div class="portfolio-masonry-entry masonry-item branding">
+					<div class="entry-thumb portfolio-thumb">
+						<div class="imgoverlay overlay-transparent name-hidden">
+							<img src="files/img/original/0325_13.jpg" alt="SEO IMAGE NAME">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>製品</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">勳章製品</h6>
+							</div>
+							<a href="works/work-001.html" class="transition"></a>
+						</div>
+				   </div>
+				</div> <!-- END .portfolio-masonry-entry -->
+
+				<div class="portfolio-masonry-entry masonry-item branding">
+					<div class="entry-thumb portfolio-thumb">
+						<div class="imgoverlay overlay-transparent name-hidden">
+							<img src="files/img/original/0325_14.jpg" alt="SEO IMAGE NAME">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>製品</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">勳章製品</h6>
+							</div>
+							<a href="works/work-001.html" class="transition"></a>
+						</div>
+				   </div>
+				</div> <!-- END .portfolio-masonry-entry -->
+
+				<div class="portfolio-masonry-entry masonry-item branding">
+					<div class="entry-thumb portfolio-thumb">
+						<div class="imgoverlay overlay-transparent name-hidden">
+							<img src="files/img/original/0325_15.jpg" alt="SEO IMAGE NAME">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>製品</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">勳章製品</h6>
+							</div>
+							<a href="works/work-001.html" class="transition"></a>
+						</div>
+				   </div>
+				</div> <!-- END .portfolio-masonry-entry -->
+
+				<div class="portfolio-masonry-entry masonry-item branding">
+					<div class="entry-thumb portfolio-thumb">
+						<div class="imgoverlay overlay-transparent name-hidden">
+							<img src="files/img/original/0325_16.jpg" alt="SEO IMAGE NAME">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>製品</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">勳章製品</h6>
+							</div>
+							<a href="works/work-001.html" class="transition"></a>
+						</div>
+				   </div>
+				</div> <!-- END .portfolio-masonry-entry -->
+
+				<div class="portfolio-masonry-entry masonry-item branding">
+					<div class="entry-thumb portfolio-thumb">
+						<div class="imgoverlay overlay-transparent name-hidden">
+							<img src="files/img/original/0325_17.jpg" alt="SEO IMAGE NAME">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>製品</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">勳章製品</h6>
+							</div>
+							<a href="works/work-001.html" class="transition"></a>
+						</div>
+				   </div>
+				</div> <!-- END .portfolio-masonry-entry -->
+
+				<div class="portfolio-masonry-entry masonry-item branding">
+					<div class="entry-thumb portfolio-thumb">
+						<div class="imgoverlay overlay-transparent name-hidden">
+							<img src="files/img/original/0325_18.jpg" alt="SEO IMAGE NAME">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>製品</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">勳章製品</h6>
+							</div>
+							<a href="works/work-001.html" class="transition"></a>
+						</div>
+				   </div>
+				</div> <!-- END .portfolio-masonry-entry -->
+
+				<div class="portfolio-masonry-entry masonry-item branding">
+					<div class="entry-thumb portfolio-thumb">
+						<div class="imgoverlay overlay-transparent name-hidden">
+							<img src="files/img/original/0325_19.jpg" alt="SEO IMAGE NAME">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>製品</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">勳章製品</h6>
+							</div>
+							<a href="works/work-001.html" class="transition"></a>
+						</div>
+				   </div>
+				</div> <!-- END .portfolio-masonry-entry -->
+
+				<div class="portfolio-masonry-entry masonry-item branding">
+					<div class="entry-thumb portfolio-thumb">
+						<div class="imgoverlay overlay-transparent name-hidden">
+							<img src="files/img/original/0325_20.jpg" alt="SEO IMAGE NAME">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>製品</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">勳章製品</h6>
+							</div>
+							<a href="works/work-001.html" class="transition"></a>
+						</div>
+				   </div>
+				</div> <!-- END .portfolio-masonry-entry -->
+
+				<div class="portfolio-masonry-entry masonry-item branding">
+					<div class="entry-thumb portfolio-thumb">
+						<div class="imgoverlay overlay-transparent name-hidden">
+							<img src="files/img/original/0325_21.jpg" alt="SEO IMAGE NAME">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>製品</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">勳章製品</h6>
+							</div>
+							<a href="works/work-001.html" class="transition"></a>
+						</div>
+				   </div>
+				</div> <!-- END .portfolio-masonry-entry -->
+
+				<div class="portfolio-masonry-entry masonry-item branding">
+					<div class="entry-thumb portfolio-thumb">
+						<div class="imgoverlay overlay-transparent name-hidden">
+							<img src="files/img/original/0325_22.jpg" alt="SEO IMAGE NAME">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>製品</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">勳章製品</h6>
+							</div>
+							<a href="works/work-001.html" class="transition"></a>
+						</div>
+				   </div>
+				</div> <!-- END .portfolio-masonry-entry -->
+
+				<div class="portfolio-masonry-entry masonry-item branding">
+					<div class="entry-thumb portfolio-thumb">
+						<div class="imgoverlay overlay-transparent name-hidden">
+							<img src="files/img/original/0325_23.jpg" alt="SEO IMAGE NAME">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>製品</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">勳章製品</h6>
+							</div>
+							<a href="works/work-001.html" class="transition"></a>
+						</div>
+				   </div>
+				</div> <!-- END .portfolio-masonry-entry -->
+
+				<div class="portfolio-masonry-entry masonry-item branding">
+					<div class="entry-thumb portfolio-thumb">
+						<div class="imgoverlay overlay-transparent name-hidden">
+							<img src="files/img/original/0325_24.jpg" alt="SEO IMAGE NAME">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>製品</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">勳章製品</h6>
+							</div>
+							<a href="works/work-001.html" class="transition"></a>
+						</div>
+				   </div>
+				</div> <!-- END .portfolio-masonry-entry -->
+
+				<div class="portfolio-masonry-entry masonry-item branding">
+					<div class="entry-thumb portfolio-thumb">
+						<div class="imgoverlay overlay-transparent name-hidden">
+							<img src="files/img/original/0325_25.jpg" alt="SEO IMAGE NAME">
+							<div class="overlaycaption">
+								<h5 class="overlay-name title-minimal"><strong>製品</strong></h5>
+								<div class="separator-small"><span></span></div>
+								<h6 class="alttitle">勳章製品</h6>
+							</div>
+							<a href="works/work-001.html" class="transition"></a>
+						</div>
+				   </div>
+				</div> <!-- END .portfolio-masonry-entry -->
+
+			</div> <!-- END #portfolio-grid -->
+
+			</div>
+		</section>
+		<!-- GALLERY SECTION -->
+
+
+      	<!-- FOOTER -->
+		<footer>
+			<div class="footer-inner wrapper">
+				<ul class="socialmedia-widget left-float">
+					<li class="facebook"><a href="#"></a></li>
+					<li class="twitter"><a href="#"></a></li>
+					<li class="linkedin"><a href="#"></a></li>
+					<li class="dribbble"><a href="#"></a></li>
+					<li class="behance"><a href="#"></a></li>
+					<li class="instagram"><a href="#"></a></li>
+				</ul>
+				<div class="copyright right-float">
+                    Copyright &copy; 2015 by TJVStudio.
+				</div>
+         	</div>
+    	</footer>
+      	<!-- FOOTER -->
+
+ 	</div> <!-- END .page-body -->
+	<!-- PAGEBODY -->
 
 </div> <!-- END #page-content -->
 <!-- PAGE CONTENT -->
@@ -130,6 +538,10 @@
 <script type='text/javascript' src='files/js/jquery.easing.1.3.js'></script>
 <script type='text/javascript' src='files/js/jquery.easing.compatibility.js'></script>
 <script type='text/javascript' src='files/js/jquery.visible.min.js'></script>
+<script type='text/javascript' src='files/js/jquery.isotope.min.js'></script>
+<script type='text/javascript' src='files/js/jquery.parallax.min.js'></script>
+<script type="text/javascript" src="files/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+<script type="text/javascript" src="files/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
 <script type='text/javascript' src='files/js/pond-header.js'></script>
 <script type='text/javascript' src='files/js/script.js'></script>
 <!-- SCRIPTS -->

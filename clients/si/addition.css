@@ -1,6 +1,11 @@
+@font-face {
+    font-family: ChineseLi;
+    src: url(ProNW3.otf);
+}
+
 .portfolio-carousel-item .title-minimal {
     font-size: 60px;
-    height: 32px;
+    height: 38px;
     overflow: hidden;
 }
 
@@ -10,4 +15,11 @@
 
 .imgoverlay:hover .overlaycaption .separator-small span {
     width: 60px;
+}
+
+body,
+nav#main-nav .nav-inner ul li a,
+.overlay-name,
+.alttitle{
+    font-family: ChineseLi !important;
 }

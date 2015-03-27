@@ -20,7 +20,11 @@
 body,
 nav#main-nav .nav-inner ul li a,
 .overlay-name,
-.alttitle{
+.alttitle,
+.srcaption-bigwhite,
+.main-title,
+.alttitle,
+p,h1,h2,h3,h4,h5{
     font-family: ChineseLi !important;
 }
 
@@ -29,7 +33,7 @@ nav#main-nav .nav-inner ul li a,
     text-shadow: 1px 1px 8px rgba(0,0,0,0.2);
 }
 .skill .tooltip{
-    width: 300px;
+    width: 120px;
 }
 .content-center{
     margin-right: auto !important;

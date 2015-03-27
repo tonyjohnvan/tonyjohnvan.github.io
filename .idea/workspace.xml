@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bec1d80d-fafc-426e-911e-a324406bcd1e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ProNW3.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/si/works/work-001.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/addition.css" afterPath="$PROJECT_DIR$/clients/si/addition.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/gallery.html" afterPath="$PROJECT_DIR$/clients/si/gallery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/home.html" afterPath="$PROJECT_DIR$/clients/si/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/index.html" afterPath="$PROJECT_DIR$/clients/si/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/indexcn.html" afterPath="$PROJECT_DIR$/indexcn.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/override.css" afterPath="$PROJECT_DIR$/override.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/404.html" afterPath="$PROJECT_DIR$/clients/si/404.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/blog.html" afterPath="$PROJECT_DIR$/clients/si/blog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/contact.html" afterPath="$PROJECT_DIR$/clients/si/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/works/work-001.html" afterPath="$PROJECT_DIR$/clients/si/works/work-001.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/work.html" afterPath="$PROJECT_DIR$/clients/si/work.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tonyjohnvan.iws" />
@@ -38,8 +35,8 @@
           <file leaf-file-name="contact.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/clients/si/contact.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="2145">
-                  <caret line="14" column="53" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+                <state vertical-scroll-proportion="-35.25" vertical-offset="1239" max-vertical-offset="2175">
+                  <caret line="139" column="7" selection-start-line="139" selection-start-column="7" selection-end-line="139" selection-end-column="7" />
                   <folding />
                 </state>
               </provider>
@@ -55,20 +52,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/clients/si/files/css/style.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="12189" max-vertical-offset="38160">
-                  <caret line="834" column="92" selection-start-line="834" selection-start-column="30" selection-end-line="834" selection-end-column="30" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="gallery.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/clients/si/gallery.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-16.875" vertical-offset="390" max-vertical-offset="8325">
+                <state vertical-scroll-proportion="120.0" vertical-offset="3675" max-vertical-offset="8325">
                   <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
                   <folding>
                     <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -77,20 +64,50 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="work-001.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/clients/si/works/work-001.html">
+          <file leaf-file-name="work.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/clients/si/work.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-18.583334" vertical-offset="1564" max-vertical-offset="2145">
-                  <caret line="134" column="59" selection-start-line="134" selection-start-column="16" selection-end-line="134" selection-end-column="16" />
+                <state vertical-scroll-proportion="-34.0" vertical-offset="1269" max-vertical-offset="2175">
+                  <caret line="139" column="7" selection-start-line="139" selection-start-column="7" selection-end-line="139" selection-end-column="7" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="indexcn.html" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="work-001.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/clients/si/works/work-001.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-16.25" vertical-offset="780" max-vertical-offset="2175">
+                  <caret line="78" column="64" selection-start-line="0" selection-start-column="0" selection-end-line="139" selection-end-column="7" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="404.html" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/clients/si/404.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.2979452" vertical-offset="1239" max-vertical-offset="2175">
+                  <caret line="100" column="96" selection-start-line="100" selection-start-column="19" selection-end-line="100" selection-end-column="19" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="blog.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/clients/si/blog.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-35.25" vertical-offset="1239" max-vertical-offset="2175">
+                  <caret line="139" column="7" selection-start-line="139" selection-start-column="7" selection-end-line="139" selection-end-column="7" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="indexcn.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/indexcn.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.7508343" vertical-offset="4440" max-vertical-offset="12240">
+                <state vertical-scroll-proportion="-95.625" vertical-offset="2820" max-vertical-offset="12240">
                   <caret line="341" column="102" selection-start-line="341" selection-start-column="102" selection-end-line="341" selection-end-column="102" />
                   <folding />
                 </state>
@@ -111,21 +128,21 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="addition.css" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="addition.css" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/clients/si/addition.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.48076922" vertical-offset="0" max-vertical-offset="936">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
                   <caret line="30" column="38" selection-start-line="30" selection-start-column="11" selection-end-line="31" selection-end-column="38" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/clients/si/home.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-9.375" vertical-offset="615" max-vertical-offset="10275">
-                  <caret line="56" column="44" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
+                <state vertical-scroll-proportion="0.5339266" vertical-offset="7230" max-vertical-offset="10275">
+                  <caret line="514" column="0" selection-start-line="514" selection-start-column="0" selection-end-line="515" selection-end-column="0" />
                   <folding>
                     <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -183,18 +200,19 @@
         <option value="$PROJECT_DIR$/404.html" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/clients/si/blog.html" />
-        <option value="$PROJECT_DIR$/clients/si/contact.html" />
-        <option value="$PROJECT_DIR$/clients/si/work.html" />
-        <option value="$PROJECT_DIR$/clients/si/404.html" />
         <option value="$PROJECT_DIR$/clients/si/addition.css" />
         <option value="$PROJECT_DIR$/clients/si/index.html" />
         <option value="$PROJECT_DIR$/clients/si/home.html" />
         <option value="$PROJECT_DIR$/clients/si/works/4042.html" />
         <option value="$PROJECT_DIR$/clients/si/gallery.html" />
-        <option value="$PROJECT_DIR$/clients/si/works/work-001.html" />
         <option value="$PROJECT_DIR$/override.css" />
         <option value="$PROJECT_DIR$/indexcn.html" />
+        <option value="$PROJECT_DIR$/clients/si/works/work-001.html" />
+        <option value="$PROJECT_DIR$/clients/si/work-002.html" />
+        <option value="$PROJECT_DIR$/clients/si/work.html" />
+        <option value="$PROJECT_DIR$/clients/si/contact.html" />
+        <option value="$PROJECT_DIR$/clients/si/blog.html" />
+        <option value="$PROJECT_DIR$/clients/si/404.html" />
       </list>
     </option>
   </component>
@@ -261,6 +279,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tonyjohnvan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tonyjohnvanSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="si" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tonyjohnvan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tonyjohnvanSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="si" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="works" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -280,15 +338,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/clients/si/works" />
       <recent name="$PROJECT_DIR$/fonts" />
       <recent name="$PROJECT_DIR$/clients/si" />
-      <recent name="$PROJECT_DIR$/clients/si/works" />
       <recent name="$PROJECT_DIR$/clients/si/files" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/clients/si/works" />
       <recent name="$PROJECT_DIR$/clients/si" />
+      <recent name="$PROJECT_DIR$/clients/si/works" />
       <recent name="$PROJECT_DIR$/video" />
     </key>
   </component>
@@ -357,7 +415,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987553" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10795155" sideWeight="0.67" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10795155" sideWeight="0.67" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -391,27 +449,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="10486" max-vertical-offset="12480">
-          <caret line="614" column="20" selection-start-line="614" selection-start-column="20" selection-end-line="614" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/indexcn.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="12240">
-          <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2430">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1770">
@@ -676,45 +713,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clients/si/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.875" vertical-offset="390" max-vertical-offset="8325">
-          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clients/si/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.375" vertical-offset="615" max-vertical-offset="10275">
-          <caret line="56" column="44" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clients/si/works/work-001.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.583334" vertical-offset="1564" max-vertical-offset="2145">
-          <caret line="134" column="59" selection-start-line="134" selection-start-column="16" selection-end-line="134" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clients/si/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="2145">
-          <caret line="14" column="53" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.625" vertical-offset="10800" max-vertical-offset="12480">
@@ -733,7 +731,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/clients/si/addition.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48076922" vertical-offset="0" max-vertical-offset="936">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
           <caret line="30" column="38" selection-start-line="30" selection-start-column="11" selection-end-line="31" selection-end-column="38" />
           <folding />
         </state>
@@ -749,8 +747,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/indexcn.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7508343" vertical-offset="4440" max-vertical-offset="12240">
+        <state vertical-scroll-proportion="-95.625" vertical-offset="2820" max-vertical-offset="12240">
           <caret line="341" column="102" selection-start-line="341" selection-start-column="102" selection-end-line="341" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clients/si/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5339266" vertical-offset="7230" max-vertical-offset="10275">
+          <caret line="514" column="0" selection-start-line="514" selection-start-column="0" selection-end-line="515" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clients/si/works/work-001.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.25" vertical-offset="780" max-vertical-offset="2175">
+          <caret line="78" column="64" selection-start-line="0" selection-start-column="0" selection-end-line="139" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clients/si/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="120.0" vertical-offset="3675" max-vertical-offset="8325">
+          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clients/si/work.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-34.0" vertical-offset="1269" max-vertical-offset="2175">
+          <caret line="139" column="7" selection-start-line="139" selection-start-column="7" selection-end-line="139" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clients/si/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-35.25" vertical-offset="1239" max-vertical-offset="2175">
+          <caret line="139" column="7" selection-start-line="139" selection-start-column="7" selection-end-line="139" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clients/si/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-35.25" vertical-offset="1239" max-vertical-offset="2175">
+          <caret line="139" column="7" selection-start-line="139" selection-start-column="7" selection-end-line="139" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clients/si/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2979452" vertical-offset="1239" max-vertical-offset="2175">
+          <caret line="100" column="96" selection-start-line="100" selection-start-column="19" selection-end-line="100" selection-end-column="19" />
           <folding />
         </state>
       </provider>

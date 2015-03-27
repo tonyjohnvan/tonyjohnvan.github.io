@@ -47,3 +47,18 @@ span,li,ul,ol,strong,
     float: center !important;
     margin-left: auto;
 }
+#page-title{
+    background: white url(files/img/header/3.jpg) center center no-repeat;
+    background-size: 100% auto;
+}
+.text-center{
+    text-align: center;
+}
+.text-white{
+    color: #ffffff;
+    text-shadow: 1px 1px 8px rgba(0,0,0,0.2);
+}
+.separator-small.white span{
+    background: #ffffff;
+    box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.2);
+}

@@ -36,7 +36,8 @@ span,li,ul,ol,strong,
 }
 
 .srcaption-bigwhite,
-.overlay-name{
+.overlay-name,
+span.time{
     text-shadow: 1px 1px 8px rgba(0,0,0,0.25);
 }
 .skill .tooltip{
@@ -47,7 +48,7 @@ span,li,ul,ol,strong,
     float: center !important;
     margin-left: auto;
 }
-#page-title{
+#page-title.light-background{
     background: white url(files/img/header/3.jpg) center center no-repeat;
     background-size: 100% auto;
 }
@@ -67,4 +68,15 @@ span,li,ul,ol,strong,
 .testimonial-item.black-text h6{
     /*color: #000;*/
     text-shadow: 1px 1px 6px rgba(0,0,0,0.9);
+}
+
+.btn-center{
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+a{
+    color: #000000;
 }

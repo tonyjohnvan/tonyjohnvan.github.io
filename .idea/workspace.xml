@@ -2,14 +2,197 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bec1d80d-fafc-426e-911e-a324406bcd1e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/blog.html" afterPath="$PROJECT_DIR$/clients/si/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/contact.html" afterPath="$PROJECT_DIR$/clients/si/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/gallery.html" afterPath="$PROJECT_DIR$/clients/si/gallery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/home.html" afterPath="$PROJECT_DIR$/clients/si/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/index.html" afterPath="$PROJECT_DIR$/clients/si/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/works/work-001.html" afterPath="$PROJECT_DIR$/clients/si/works/work-001.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/works/work-002.html" afterPath="$PROJECT_DIR$/clients/si/works/work-002.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/work.html" afterPath="$PROJECT_DIR$/clients/si/work.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/highlights/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/10@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/11@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/12@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/13@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/14@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/1@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/1s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/1t.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/1w.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/1ww.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/highlights/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/2@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/2s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/2t.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/2w.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/2ww.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/highlights/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/3@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/3s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/3t.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/3w.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/3ww.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/highlights/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/4@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/4s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/4t.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/4w.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/4ww.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/highlights/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/5@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/5s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/5t.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/5w.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/5ww.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/highlights/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/6@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/6s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/6t.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/6w.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/6ww.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/highlights/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/7@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/7s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/7t.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/7w.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/7ww.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/highlights/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/8@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/8s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/8t.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/8w.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/8ww.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/9@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/address_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/detector/android.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/detector/appstore.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/arrow-down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/arrow-up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/arrow22@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/arrow2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/bgpat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/block_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/bookmark_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/briefcase_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/bubble_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/buy_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/calendar_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/checkbox1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/checkbox1c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/checkbox2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/checkbox2c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/checkbox3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/checkbox3c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/clipboard_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/clock_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/delete_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/diagram_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/document_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/down_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/flag_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/folder_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/gear_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/globe_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/grabbing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/heart_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/help_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/home_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/gallery/icon3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/gallery/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/gallery/icons@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/info_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/key_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/label_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/left_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/letter_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/gallery/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/logo-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/misc/menu-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/mobile1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/mobile1a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/monitor_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/next1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/pencil_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/plus_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/present_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/prev1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/print_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/radio1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/radio1c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/radio2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/radio2c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/right_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/save_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/search_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/shield_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/sidebar-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/splash/splash-icon-big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/splash/splash-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/splash/splash-screen-ipad-landscape-retina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/splash/splash-screen-ipad-landscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/splash/splash-screen-ipad-portrait-retina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/splash/splash-screen-ipad-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/splash/splash-screen-six-plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/splash/splash-screen-six.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/splash/splash-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/splash/splash-screen@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/splash/splash-screen@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/statistics_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/status.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/stop_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/tick@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/tick_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/trash_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/up_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/user_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/wallet_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/warning_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/styles/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/blog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/scripts/contact.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/scripts/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/styles/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/styles/font-awesome2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/styles/framework.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/scripts/framework.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/scripts/framework.launcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/scripts/framework.plugins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/gallery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/gallery/icon3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/scripts/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/scripts/jqueryui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/styles/owl.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/styles/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/styles/swipebox.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tonyjohnvan.iws" />
@@ -32,108 +215,110 @@
     <favorites_list name="tonyjohnvan" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="404.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clients/si/404.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.083333" vertical-offset="1456" max-vertical-offset="2175">
-              <caret line="118" column="24" selection-start-line="118" selection-start-column="24" selection-end-line="118" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clients/si/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-24.958334" vertical-offset="9556" max-vertical-offset="10275">
-              <caret line="677" column="0" selection-start-line="677" selection-start-column="0" selection-end-line="677" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clients/si/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-24.958334" vertical-offset="2206" max-vertical-offset="2925">
-              <caret line="187" column="0" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="addition.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clients/si/addition.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="549" max-vertical-offset="1305">
-              <caret line="80" column="19" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="work-001.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clients/si/works/work-001.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-24.958334" vertical-offset="2731" max-vertical-offset="3450">
-              <caret line="222" column="0" selection-start-line="222" selection-start-column="0" selection-end-line="222" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clients/si/blog.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-24.958334" vertical-offset="4501" max-vertical-offset="5220">
-              <caret line="340" column="0" selection-start-line="340" selection-start-column="0" selection-end-line="340" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="work-002.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clients/si/works/work-002.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-24.958334" vertical-offset="2806" max-vertical-offset="3525">
-              <caret line="227" column="0" selection-start-line="227" selection-start-column="0" selection-end-line="227" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clients/si/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-25.583334" vertical-offset="4006" max-vertical-offset="4740">
-              <caret line="308" column="0" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="work.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/clients/si/work.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.82758623" vertical-offset="4209" max-vertical-offset="4905">
-              <caret line="319" column="0" selection-start-line="319" selection-start-column="0" selection-end-line="319" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gallery.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clients/si/gallery.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-24.958334" vertical-offset="7606" max-vertical-offset="8325">
-              <caret line="547" column="0" selection-start-line="547" selection-start-column="0" selection-end-line="547" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.61039835">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/mobile/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.46718577" vertical-offset="0" max-vertical-offset="6180">
+                  <caret line="28" column="75" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
+                  <folding>
+                    <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#2;n#body#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#2;n#body#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="blog.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/mobile/blog.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="225">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="contact.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/mobile/contact.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="225">
+                  <caret line="7" column="36" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="gallery.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/mobile/gallery.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="225">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="swipebox.css" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/mobile/styles/swipebox.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="188" max-vertical-offset="3720">
+                  <caret line="29" column="35" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="custom.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/mobile/scripts/custom.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="998" max-vertical-offset="10110">
+                  <caret line="93" column="17" selection-start-line="93" selection-start-column="13" selection-end-line="93" selection-end-column="17" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/mobile/styles/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="16987" max-vertical-offset="18150">
+                  <caret line="1158" column="21" selection-start-line="1158" selection-start-column="17" selection-end-line="1158" selection-end-column="17" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="framework.css" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/mobile/styles/framework.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="65543" max-vertical-offset="70335">
+                  <caret line="4417" column="23" selection-start-line="4417" selection-start-column="23" selection-end-line="4417" selection-end-column="23" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.41713014" vertical-offset="9720" max-vertical-offset="12465">
+                  <caret line="673" column="102" selection-start-line="673" selection-start-column="59" selection-end-line="673" selection-end-column="102" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -158,7 +343,6 @@
         <option value="$PROJECT_DIR$/404.html" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/override.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/clients/si/addition.css" />
         <option value="$PROJECT_DIR$/clients/si/404.html" />
         <option value="$PROJECT_DIR$/clients/si/works/work-001.html" />
@@ -169,13 +353,18 @@
         <option value="$PROJECT_DIR$/clients/si/home.html" />
         <option value="$PROJECT_DIR$/clients/si/index.html" />
         <option value="$PROJECT_DIR$/clients/si/work.html" />
+        <option value="$PROJECT_DIR$/mobile/styles/framework.css" />
+        <option value="$PROJECT_DIR$/mobile/styles/style.css" />
+        <option value="$PROJECT_DIR$/mobile/gallery.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/mobile/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="1440" />
-    <option name="height" value="874" />
+    <option name="width" value="1920" />
+    <option name="height" value="1054" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -217,7 +406,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tonyjohnvan" />
+              <option name="myItemId" value="tonyjohnvanSite" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -227,37 +416,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tonyjohnvan" />
+              <option name="myItemId" value="tonyjohnvanSite" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="clients" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="si" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonyjohnvan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonyjohnvan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="clients" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="si" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="works" />
+              <option name="myItemId" value="mobile" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -280,11 +443,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mobile" />
+      <recent name="$PROJECT_DIR$/mobile/images/pics/gallery" />
       <recent name="$PROJECT_DIR$/clients/si/works" />
       <recent name="$PROJECT_DIR$/clients/si" />
       <recent name="$PROJECT_DIR$/clients/si/files" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="C:\Users\tonyj_000\Documents\tonyjohnvan.github.io\js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/clients/si/works" />
@@ -293,14 +456,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -311,14 +466,12 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" />
-      <option name="executablePath" />
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
       <option name="filePath" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -326,6 +479,16 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -349,14 +512,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="874" extended-state="6" />
+    <frame x="0" y="22" width="1920" height="1054" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32883817" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22057787" sideWeight="0.67" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22011586" sideWeight="0.67" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -365,10 +529,9 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32908162" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -391,83 +554,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="9255" max-vertical-offset="12210">
-          <caret line="617" column="0" selection-start-line="617" selection-start-column="0" selection-end-line="617" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/indexcn.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="12240">
-          <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2430">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1770">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/googleMapInit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1470">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/bkps.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="8385">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4830">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/override.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2040" max-vertical-offset="2565">
-          <caret line="136" column="59" selection-start-line="136" selection-start-column="59" selection-end-line="136" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2910" max-vertical-offset="12240">
-          <caret line="194" column="20" selection-start-line="194" selection-start-column="20" selection-end-line="194" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2430">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1770">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/googleMapInit.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1470">
@@ -553,20 +639,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.065005414" vertical-offset="0" max-vertical-offset="923">
-          <caret line="4" column="12885" selection-start-line="4" selection-start-column="12885" selection-end-line="4" selection-end-column="12885" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33261105" vertical-offset="788" max-vertical-offset="29040">
-          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/bkps.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.08344924" vertical-offset="0" max-vertical-offset="8385">
@@ -630,126 +702,226 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../PersonalSites/Library/Pond-2.0-HTML/html/split-section.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12931034" vertical-offset="0" max-vertical-offset="5025">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../PersonalSites/Library/Pond-2.0-HTML/html/blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49790794" vertical-offset="3693" max-vertical-offset="4920">
-          <caret line="270" column="16" selection-start-line="270" selection-start-column="16" selection-end-line="277" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../PersonalSites/Library/Pond-2.0-HTML/html/blog-single.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18828452" vertical-offset="0" max-vertical-offset="4740">
-          <caret line="9" column="90" selection-start-line="0" selection-start-column="0" selection-end-line="310" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.58933717" vertical-offset="11786" max-vertical-offset="12480">
-          <caret line="813" column="0" selection-start-line="813" selection-start-column="0" selection-end-line="823" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../PersonalSites/Library/Pond-2.0-HTML/html/blog-single3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="795" max-vertical-offset="4740">
-          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="297" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/clients/si/files/css/font-awesome.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.060565274" vertical-offset="0" max-vertical-offset="743">
           <caret line="3" column="21158" selection-start-line="3" selection-start-column="21158" selection-end-line="3" selection-end-column="21158" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clients/si/works/work-001.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.958334" vertical-offset="2731" max-vertical-offset="3450">
-          <caret line="222" column="0" selection-start-line="222" selection-start-column="0" selection-end-line="222" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="3360" max-vertical-offset="3450">
+          <caret line="224" column="0" selection-start-line="224" selection-start-column="0" selection-end-line="224" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clients/si/works/work-002.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.958334" vertical-offset="2806" max-vertical-offset="3525">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2806" max-vertical-offset="3525">
           <caret line="227" column="0" selection-start-line="227" selection-start-column="0" selection-end-line="227" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clients/si/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.083333" vertical-offset="1456" max-vertical-offset="2175">
-          <caret line="118" column="24" selection-start-line="118" selection-start-column="24" selection-end-line="118" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clients/si/addition.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="504" max-vertical-offset="1305">
-          <caret line="80" column="19" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clients/si/blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.958334" vertical-offset="4501" max-vertical-offset="5220">
-          <caret line="340" column="0" selection-start-line="340" selection-start-column="0" selection-end-line="340" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clients/si/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-25.583334" vertical-offset="4006" max-vertical-offset="4740">
-          <caret line="308" column="0" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clients/si/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.958334" vertical-offset="7606" max-vertical-offset="8325">
-          <caret line="547" column="0" selection-start-line="547" selection-start-column="0" selection-end-line="547" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clients/si/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.958334" vertical-offset="9556" max-vertical-offset="10275">
-          <caret line="677" column="0" selection-start-line="677" selection-start-column="0" selection-end-line="677" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clients/si/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.958334" vertical-offset="2206" max-vertical-offset="2925">
-          <caret line="187" column="0" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clients/si/work.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.82758623" vertical-offset="4209" max-vertical-offset="4905">
+        <state vertical-scroll-proportion="0.89144737" vertical-offset="3972" max-vertical-offset="4905">
           <caret line="319" column="0" selection-start-line="319" selection-start-column="0" selection-end-line="319" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clients/si/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8665184" vertical-offset="3841" max-vertical-offset="4740">
+          <caret line="308" column="0" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clients/si/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.89988875" vertical-offset="4321" max-vertical-offset="5220">
+          <caret line="342" column="0" selection-start-line="342" selection-start-column="0" selection-end-line="342" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clients/si/addition.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.90384614" vertical-offset="369" max-vertical-offset="1305">
+          <caret line="81" column="1" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clients/si/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8684211" vertical-offset="2013" max-vertical-offset="2925">
+          <caret line="187" column="0" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clients/si/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8665184" vertical-offset="9376" max-vertical-offset="10275">
+          <caret line="677" column="0" selection-start-line="677" selection-start-column="0" selection-end-line="677" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clients/si/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5559211" vertical-offset="1263" max-vertical-offset="2175">
+          <caret line="118" column="24" selection-start-line="118" selection-start-column="24" selection-end-line="118" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clients/si/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8684211" vertical-offset="7413" max-vertical-offset="8325">
+          <caret line="547" column="0" selection-start-line="547" selection-start-column="0" selection-end-line="547" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33261105" vertical-offset="878" max-vertical-offset="29040">
+          <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.065005414" vertical-offset="0" max-vertical-offset="923">
+          <caret line="4" column="105752" selection-start-line="4" selection-start-column="105752" selection-end-line="4" selection-end-column="105752" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/preloader.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47128928" vertical-offset="0" max-vertical-offset="3165">
+          <caret line="29" column="63" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/scripts/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="998" max-vertical-offset="10110">
+          <caret line="93" column="17" selection-start-line="93" selection-start-column="13" selection-end-line="93" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/styles/framework.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="65543" max-vertical-offset="70335">
+          <caret line="4417" column="23" selection-start-line="4417" selection-start-column="23" selection-end-line="4417" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/gallery/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/images/gallery/icon3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/images/pics/gallery/13.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/images/pics/gallery/14.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../HTMLTemp/Drag/code/gallery-round.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18041237" vertical-offset="3675" max-vertical-offset="4875">
+          <caret line="252" column="42" selection-start-line="252" selection-start-column="31" selection-end-line="252" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/styles/swipebox.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="188" max-vertical-offset="3720">
+          <caret line="29" column="35" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../HTMLTemp/Drag/code/gallery-square.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5670103" vertical-offset="3540" max-vertical-offset="4875">
+          <caret line="258" column="75" selection-start-line="258" selection-start-column="75" selection-end-line="258" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/styles/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="16987" max-vertical-offset="18150">
+          <caret line="1158" column="21" selection-start-line="1158" selection-start-column="17" selection-end-line="1158" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="936">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="225">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="936">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41713014" vertical-offset="9720" max-vertical-offset="12465">
+          <caret line="673" column="102" selection-start-line="673" selection-start-column="59" selection-end-line="673" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46718577" vertical-offset="0" max-vertical-offset="6180">
+          <caret line="28" column="75" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#2;n#body#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

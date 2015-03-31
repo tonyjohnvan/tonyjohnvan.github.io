@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bec1d80d-fafc-426e-911e-a324406bcd1e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/blog.html" afterPath="$PROJECT_DIR$/clients/si/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/contact.html" afterPath="$PROJECT_DIR$/clients/si/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/gallery.html" afterPath="$PROJECT_DIR$/clients/si/gallery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/home.html" afterPath="$PROJECT_DIR$/clients/si/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/index.html" afterPath="$PROJECT_DIR$/clients/si/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/works/work-001.html" afterPath="$PROJECT_DIR$/clients/si/works/work-001.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/works/work-002.html" afterPath="$PROJECT_DIR$/clients/si/works/work-002.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/si/work.html" afterPath="$PROJECT_DIR$/clients/si/work.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="bec1d80d-fafc-426e-911e-a324406bcd1e" name="Default" comment="" />
     <ignored path="tonyjohnvan.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -116,8 +106,8 @@
       <file leaf-file-name="work.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/clients/si/work.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.82758623" vertical-offset="4209" max-vertical-offset="4905">
-              <caret line="319" column="0" selection-start-line="319" selection-start-column="0" selection-end-line="319" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.18103448" vertical-offset="4209" max-vertical-offset="4905">
+              <caret line="289" column="36" selection-start-line="289" selection-start-column="36" selection-end-line="289" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -747,8 +737,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/clients/si/work.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.82758623" vertical-offset="4209" max-vertical-offset="4905">
-          <caret line="319" column="0" selection-start-line="319" selection-start-column="0" selection-end-line="319" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.18103448" vertical-offset="4209" max-vertical-offset="4905">
+          <caret line="289" column="36" selection-start-line="289" selection-start-column="36" selection-end-line="289" selection-end-column="36" />
           <folding />
         </state>
       </provider>

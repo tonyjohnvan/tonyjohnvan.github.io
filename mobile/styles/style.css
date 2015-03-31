@@ -1175,7 +1175,24 @@ body{
     font-size:14px;
 }
 
+.quote-text h4{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    width: 87%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 36px;
+}
 
+.portfolio-wide-item{
+    max-height: 150px;
+    overflow: hidden;
+}
+.portfolio-wide-item img{
+    top: -100px;
+}
 
 
 

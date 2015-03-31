@@ -177,4 +177,24 @@
 }
 
 
-/*Chinese Font Override*/
+/* ---------- Mobile Banner ---------- */
+#mobileBanner{
+    display: none;
+    width: 100%;
+    height: 60px;
+    border-bottom: 1px #666;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+    padding-top: 5px;
+    background: #ffffff url(img/mobileViewBanner.png) center center no-repeat;
+    background-size: 16% auto;
+}
+#mobileBanner p,
+#mobileBanner h5{
+    margin: 5px auto 0;
+}
+
+.navbar{
+    /*top: 60px;*/
+}

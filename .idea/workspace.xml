@@ -2,197 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bec1d80d-fafc-426e-911e-a324406bcd1e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/highlights/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/10@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/11@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/12@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/13@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/14@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/1@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/1s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/1t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/1w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/1ww.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/highlights/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/2@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/2s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/2t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/2w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/2ww.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/highlights/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/3@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/3s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/3t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/3w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/3ww.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/highlights/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/4@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/4s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/4t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/4w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/4ww.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/highlights/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/5@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/5s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/5t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/5w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/5ww.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/highlights/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/6@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/6s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/6t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/6w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/6ww.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/highlights/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/7@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/7s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/7t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/7w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/7ww.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/highlights/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/8@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/8s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/8t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/8w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pictures/8ww.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/pics/gallery/9@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/address_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/detector/android.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/detector/appstore.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/arrow-down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/arrow-up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/arrow22@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/arrow2@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/bgpat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/block_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/bookmark_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/briefcase_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/bubble_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/buy_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/calendar_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/checkbox1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/checkbox1c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/checkbox2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/checkbox2c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/checkbox3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/checkbox3c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/clipboard_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/clock_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/delete_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/diagram_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/document_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/down_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/flag_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/folder_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/gear_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/globe_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/grabbing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/heart_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/help_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/home_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/gallery/icon3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/gallery/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/gallery/icons@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/info_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/key_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/label_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/left_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/letter_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/gallery/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/logo-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/misc/menu-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/minus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/mobile1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/mobile1a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/monitor_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/next1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/pencil_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/plus_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/present_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/prev1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/print_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/radio1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/radio1c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/radio2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/radio2c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/right_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/save_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/search_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/shield_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/sidebar-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/splash/splash-icon-big.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/splash/splash-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/splash/splash-screen-ipad-landscape-retina.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/splash/splash-screen-ipad-landscape.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/splash/splash-screen-ipad-portrait-retina.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/splash/splash-screen-ipad-portrait.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/splash/splash-screen-six-plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/splash/splash-screen-six.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/splash/splash-screen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/splash/splash-screen@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/splash/splash-screen@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/statistics_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/status.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/stop_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ui/tick@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/tick_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/trash_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/up_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/user_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/wallet_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/warning_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/styles/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/blog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/scripts/contact.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/scripts/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/styles/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/styles/font-awesome2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/styles/framework.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/scripts/framework.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/scripts/framework.launcher.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/scripts/framework.plugins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/gallery.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/gallery/icon3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/scripts/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/scripts/jqueryui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/lists/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/styles/owl.theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/styles/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/styles/swipebox.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/images/pics/2.jpg" afterPath="$PROJECT_DIR$/mobile/images/pics/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/images/pics/5.jpg" afterPath="$PROJECT_DIR$/mobile/images/pics/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/scripts/custom.js" afterPath="$PROJECT_DIR$/mobile/scripts/custom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/styles/framework.css" afterPath="$PROJECT_DIR$/mobile/styles/framework.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/scripts/framework.plugins.js" afterPath="$PROJECT_DIR$/mobile/scripts/framework.plugins.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tonyjohnvan.iws" />
@@ -215,19 +29,15 @@
     <favorites_list name="tonyjohnvan" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.61039835">
+    <splitter split-orientation="horizontal" split-proportion="0.57633245">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/mobile/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.46718577" vertical-offset="0" max-vertical-offset="6180">
-                  <caret line="28" column="75" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
-                  <folding>
-                    <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#2;n#body#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#2;n#body#0;n#!!top" expanded="true" />
-                  </folding>
+                <state vertical-scroll-proportion="-12.041667" vertical-offset="4496" max-vertical-offset="6180">
+                  <caret line="319" column="42" selection-start-line="319" selection-start-column="34" selection-end-line="319" selection-end-column="42" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -245,8 +55,8 @@
           <file leaf-file-name="contact.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/mobile/contact.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="225">
-                  <caret line="7" column="36" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+                <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="225">
+                  <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
                   <folding />
                 </state>
               </provider>
@@ -255,7 +65,7 @@
           <file leaf-file-name="gallery.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/mobile/gallery.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="225">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
                   <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding />
                 </state>
@@ -265,18 +75,18 @@
           <file leaf-file-name="swipebox.css" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/mobile/styles/swipebox.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="188" max-vertical-offset="3720">
-                  <caret line="29" column="35" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+                <state vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="3720">
+                  <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="custom.js" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="custom.js" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/mobile/scripts/custom.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="998" max-vertical-offset="10110">
-                  <caret line="93" column="17" selection-start-line="93" selection-start-column="13" selection-end-line="93" selection-end-column="17" />
+                <state vertical-scroll-proportion="0.40045768" vertical-offset="6980" max-vertical-offset="10110">
+                  <caret line="477" column="28" selection-start-line="477" selection-start-column="24" selection-end-line="477" selection-end-column="28" />
                   <folding />
                 </state>
               </provider>
@@ -290,27 +100,27 @@
             <entry file="file://$PROJECT_DIR$/mobile/styles/style.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.0" vertical-offset="16987" max-vertical-offset="18150">
-                  <caret line="1158" column="21" selection-start-line="1158" selection-start-column="17" selection-end-line="1158" selection-end-column="17" />
+                  <caret line="1158" column="17" selection-start-line="1158" selection-start-column="17" selection-end-line="1158" selection-end-column="17" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="framework.css" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="framework.css" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/mobile/styles/framework.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="65543" max-vertical-offset="70335">
-                  <caret line="4417" column="23" selection-start-line="4417" selection-start-column="23" selection-end-line="4417" selection-end-column="23" />
+                <state vertical-scroll-proportion="0.60082304" vertical-offset="6803" max-vertical-offset="70365">
+                  <caret line="473" column="16" selection-start-line="473" selection-start-column="16" selection-end-line="473" selection-end-column="16" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.41713014" vertical-offset="9720" max-vertical-offset="12465">
-                  <caret line="673" column="102" selection-start-line="673" selection-start-column="59" selection-end-line="673" selection-end-column="102" />
+                <state vertical-scroll-proportion="0.0" vertical-offset="10080" max-vertical-offset="12465">
+                  <caret line="672" column="97" selection-start-line="672" selection-start-column="59" selection-end-line="672" selection-end-column="97" />
                   <folding />
                 </state>
               </provider>
@@ -353,18 +163,19 @@
         <option value="$PROJECT_DIR$/clients/si/home.html" />
         <option value="$PROJECT_DIR$/clients/si/index.html" />
         <option value="$PROJECT_DIR$/clients/si/work.html" />
-        <option value="$PROJECT_DIR$/mobile/styles/framework.css" />
         <option value="$PROJECT_DIR$/mobile/styles/style.css" />
         <option value="$PROJECT_DIR$/mobile/gallery.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/mobile/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/mobile/styles/framework.css" />
+        <option value="$PROJECT_DIR$/mobile/scripts/custom.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="1920" />
-    <option name="height" value="1054" />
+    <option name="width" value="1440" />
+    <option name="height" value="874" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -392,6 +203,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -406,7 +218,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tonyjohnvanSite" />
+              <option name="myItemId" value="tonyjohnvan" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -416,7 +228,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tonyjohnvanSite" />
+              <option name="myItemId" value="tonyjohnvan" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -424,9 +236,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tonyjohnvan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tonyjohnvan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -512,15 +341,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1920" height="1054" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="874" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32883817" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32780612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22011586" sideWeight="0.67" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21987315" sideWeight="0.67" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -530,8 +359,8 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -554,6 +383,14 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="10095" max-vertical-offset="12480">
+          <caret line="673" column="97" selection-start-line="673" selection-start-column="59" selection-end-line="673" selection-end-column="97" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/googleMapInit.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1470">
@@ -713,7 +550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3360" max-vertical-offset="3450">
           <caret line="224" column="0" selection-start-line="224" selection-start-column="0" selection-end-line="224" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -721,7 +557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2806" max-vertical-offset="3525">
           <caret line="227" column="0" selection-start-line="227" selection-start-column="0" selection-end-line="227" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -729,7 +564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.89144737" vertical-offset="3972" max-vertical-offset="4905">
           <caret line="319" column="0" selection-start-line="319" selection-start-column="0" selection-end-line="319" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -737,7 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8665184" vertical-offset="3841" max-vertical-offset="4740">
           <caret line="308" column="0" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -745,7 +578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.89988875" vertical-offset="4321" max-vertical-offset="5220">
           <caret line="342" column="0" selection-start-line="342" selection-start-column="0" selection-end-line="342" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -753,7 +585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.90384614" vertical-offset="369" max-vertical-offset="1305">
           <caret line="81" column="1" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -761,7 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8684211" vertical-offset="2013" max-vertical-offset="2925">
           <caret line="187" column="0" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -769,7 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8665184" vertical-offset="9376" max-vertical-offset="10275">
           <caret line="677" column="0" selection-start-line="677" selection-start-column="0" selection-end-line="677" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -777,7 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5559211" vertical-offset="1263" max-vertical-offset="2175">
           <caret line="118" column="24" selection-start-line="118" selection-start-column="24" selection-end-line="118" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -785,7 +613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8684211" vertical-offset="7413" max-vertical-offset="8325">
           <caret line="547" column="0" selection-start-line="547" selection-start-column="0" selection-end-line="547" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -793,7 +620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33261105" vertical-offset="878" max-vertical-offset="29040">
           <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -801,7 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.065005414" vertical-offset="0" max-vertical-offset="923">
           <caret line="4" column="105752" selection-start-line="4" selection-start-column="105752" selection-end-line="4" selection-end-column="105752" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -809,23 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.47128928" vertical-offset="0" max-vertical-offset="3165">
           <caret line="29" column="63" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/scripts/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="998" max-vertical-offset="10110">
-          <caret line="93" column="17" selection-start-line="93" selection-start-column="13" selection-end-line="93" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/styles/framework.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="65543" max-vertical-offset="70335">
-          <caret line="4417" column="23" selection-start-line="4417" selection-start-column="23" selection-end-line="4417" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -849,34 +657,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../HTMLTemp/Drag/code/gallery-round.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18041237" vertical-offset="3675" max-vertical-offset="4875">
-          <caret line="252" column="42" selection-start-line="252" selection-start-column="31" selection-end-line="252" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/styles/swipebox.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="188" max-vertical-offset="3720">
-          <caret line="29" column="35" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../HTMLTemp/Drag/code/gallery-square.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5670103" vertical-offset="3540" max-vertical-offset="4875">
-          <caret line="258" column="75" selection-start-line="258" selection-start-column="75" selection-end-line="258" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mobile/styles/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="16987" max-vertical-offset="18150">
-          <caret line="1158" column="21" selection-start-line="1158" selection-start-column="17" selection-end-line="1158" selection-end-column="17" />
+          <caret line="1158" column="17" selection-start-line="1158" selection-start-column="17" selection-end-line="1158" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -889,10 +673,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/contact.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="225">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="10080" max-vertical-offset="12465">
+          <caret line="672" column="97" selection-start-line="672" selection-start-column="59" selection-end-line="672" selection-end-column="97" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/styles/framework.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60082304" vertical-offset="6803" max-vertical-offset="70365">
+          <caret line="473" column="16" selection-start-line="473" selection-start-column="16" selection-end-line="473" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -905,23 +697,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/mobile/scripts/framework.plugins.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41713014" vertical-offset="9720" max-vertical-offset="12465">
-          <caret line="673" column="102" selection-start-line="673" selection-start-column="59" selection-end-line="673" selection-end-column="102" />
+        <state vertical-scroll-proportion="-9.558333" vertical-offset="10242" max-vertical-offset="15345">
+          <caret line="224" column="29" selection-start-line="224" selection-start-column="29" selection-end-line="224" selection-end-column="29" />
+          <folding>
+            <marker date="1427768399000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1427768399000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1427768399000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1427768399000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1427768399000" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="225">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/styles/swipebox.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="3720">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46718577" vertical-offset="0" max-vertical-offset="6180">
-          <caret line="28" column="75" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#2;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#2;n#body#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-12.041667" vertical-offset="4496" max-vertical-offset="6180">
+          <caret line="319" column="42" selection-start-line="319" selection-start-column="34" selection-end-line="319" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/scripts/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40045768" vertical-offset="6980" max-vertical-offset="10110">
+          <caret line="477" column="28" selection-start-line="477" selection-start-column="24" selection-end-line="477" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>

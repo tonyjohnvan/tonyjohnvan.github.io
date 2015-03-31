@@ -379,7 +379,8 @@ a{
 	text-align:left;
 }
 
-.center-text{	
+.center-text{
+    margin-top: 120px;
 	display:block; 
 	text-align:center;
 }
@@ -468,18 +469,19 @@ a{
 }
 
 #status {
-	position:fixed;
+	/*position:fixed;*/
 	z-index:99999999;
-	width:250px;
-	height:250px;
+	width:256px;
+	height:256px;
 	position:absolute;
 	left:50%; 
 	top:50%; 
-	background-image:url(../images/status.gif); 
-	background-size:64px 64px;
+	background-image:url(../../img/logoblack@2x.png);
+	background-size:256px 256px;
 	background-repeat:no-repeat;
 	background-position:center;
-	margin:-125px 0 0 -125px; 
+	margin:-128px 0 0 -128px;
+    overflow: visible;
 }
 
 #status p{

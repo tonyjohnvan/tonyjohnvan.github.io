@@ -226,7 +226,7 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                 var t = n("#swipebox-caption, #swipebox-action");
                 t.addClass("visible-bars");
                 e.setTimeout();
-                n("#swipebox-slider").click(function(n) {
+                n("#swipebox-slider").on('tap',function(n) {
                     if (!t.hasClass("visible-bars")) {
                         e.showBars();
                         e.setTimeout()

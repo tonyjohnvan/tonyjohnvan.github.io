@@ -380,9 +380,12 @@ a{
 }
 
 .center-text{
-    margin-top: 120px;
+    /*margin-top: 120px;*/
 	display:block; 
 	text-align:center;
+}
+#preloader .center-text{
+    margin-top: 120px;
 }
 
 .uppercase{

@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bec1d80d-fafc-426e-911e-a324406bcd1e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/images/pics/未标题-4.psd" afterPath="$PROJECT_DIR$/mobile/images/pics/未标题-4.psd" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/blog.html" afterPath="$PROJECT_DIR$/mobile/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/contact.html" afterPath="$PROJECT_DIR$/mobile/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/gallery.html" afterPath="$PROJECT_DIR$/mobile/gallery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/index.html" afterPath="$PROJECT_DIR$/mobile/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/portfolio.html" afterPath="$PROJECT_DIR$/mobile/portfolio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tonyjohnvan.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,8 +30,8 @@
           <file leaf-file-name="blog.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/mobile/blog.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.3003337" vertical-offset="0" max-vertical-offset="3675">
-                  <caret line="18" column="65" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+                <state vertical-scroll-proportion="0.70077866" vertical-offset="2205" max-vertical-offset="3765">
+                  <caret line="189" column="72" selection-start-line="189" selection-start-column="72" selection-end-line="189" selection-end-column="72" />
                   <folding />
                 </state>
               </provider>
@@ -743,8 +737,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3003337" vertical-offset="0" max-vertical-offset="3675">
-          <caret line="18" column="65" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.70077866" vertical-offset="2205" max-vertical-offset="3765">
+          <caret line="189" column="72" selection-start-line="189" selection-start-column="72" selection-end-line="189" selection-end-column="72" />
           <folding />
         </state>
       </provider>

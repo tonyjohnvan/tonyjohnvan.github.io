@@ -4,6 +4,7 @@
     <list default="true" id="bec1d80d-fafc-426e-911e-a324406bcd1e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/index.html" afterPath="$PROJECT_DIR$/mobile/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tonyjohnvan.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,24 +26,24 @@
     <favorites_list name="tonyjohnvan" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6125686">
+    <splitter split-orientation="horizontal" split-proportion="0.41305673">
       <split-first>
         <leaf>
           <file leaf-file-name="blog.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/mobile/blog.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-98.125" vertical-offset="0" max-vertical-offset="3765">
+                <state vertical-scroll-proportion="0.0" vertical-offset="2355" max-vertical-offset="3765">
                   <caret line="157" column="39" selection-start-line="157" selection-start-column="37" selection-end-line="157" selection-end-column="37" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.46607342" vertical-offset="11626" max-vertical-offset="12525">
-                  <caret line="803" column="93" selection-start-line="803" selection-start-column="30" selection-end-line="803" selection-end-column="30" />
+                <state vertical-scroll-proportion="0.5296804" vertical-offset="2596" max-vertical-offset="12525">
+                  <caret line="204" column="80" selection-start-line="204" selection-start-column="80" selection-end-line="208" selection-end-column="85" />
                   <folding />
                 </state>
               </provider>
@@ -142,11 +143,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/mobile/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.38375974" vertical-offset="4920" max-vertical-offset="6225">
-                  <caret line="351" column="124" selection-start-line="350" selection-start-column="24" selection-end-line="351" selection-end-column="119" />
+                <state vertical-scroll-proportion="0.6340378" vertical-offset="3435" max-vertical-offset="6225">
+                  <caret line="267" column="98" selection-start-line="267" selection-start-column="98" selection-end-line="267" selection-end-column="98" />
                   <folding />
                 </state>
               </provider>
@@ -198,8 +199,8 @@
         <option value="$PROJECT_DIR$/mobile/gallery.html" />
         <option value="$PROJECT_DIR$/mobile/contact.html" />
         <option value="$PROJECT_DIR$/mobile/blog.html" />
-        <option value="$PROJECT_DIR$/mobile/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/mobile/index.html" />
       </list>
     </option>
   </component>
@@ -234,6 +235,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -268,7 +270,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -300,6 +301,14 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -310,12 +319,14 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
       <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -323,16 +334,6 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" />
-      <option name="executablePath" />
-      <option name="filePath" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -356,7 +357,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1920" height="1054" extended-state="0" />
+    <frame x="0" y="22" width="1920" height="1054" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -733,24 +734,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-98.125" vertical-offset="0" max-vertical-offset="3765">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2355" max-vertical-offset="3765">
           <caret line="157" column="39" selection-start-line="157" selection-start-column="37" selection-end-line="157" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38375974" vertical-offset="4920" max-vertical-offset="6225">
-          <caret line="351" column="124" selection-start-line="350" selection-start-column="24" selection-end-line="351" selection-end-column="119" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46607342" vertical-offset="11626" max-vertical-offset="12525">
-          <caret line="803" column="93" selection-start-line="803" selection-start-column="30" selection-end-line="803" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.5296804" vertical-offset="2596" max-vertical-offset="12525">
+          <caret line="204" column="80" selection-start-line="204" selection-start-column="80" selection-end-line="208" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6340378" vertical-offset="3435" max-vertical-offset="6225">
+          <caret line="267" column="98" selection-start-line="267" selection-start-column="98" selection-end-line="267" selection-end-column="98" />
           <folding />
         </state>
       </provider>

@@ -980,3 +980,34 @@ textarea.form-control {
 .mac.gecko #portfolio .line-content {
   height: 280px;
 }
+
+
+/* ==========================================================
+! 16. My Settings
+========================================================== */
+
+.progress.small{
+    display: inline-block;
+    width: 100px;
+    height: 13px;
+    padding: 0;
+    margin: 0 0 -2px 5px;
+}
+.progress.small .progress-bar{
+    background: #999999;
+}
+.progress.small .progress-type{
+    font-size: 9px;
+    padding: 2px 20px 2px 5px;
+    text-shadow: 0px 0px 3px rgba(0,0,0,0.3);
+}
+.progress.small .progress-completed{
+    font-size: 9px;
+    padding: 2px 5px;
+    color: #FFF;
+    text-shadow: 0px 0px 3px rgba(0,0,0,0.3);
+}
+.progress.small .progress-completed.darkgray{
+    color: #999;
+}
+

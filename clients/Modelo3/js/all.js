@@ -43,12 +43,18 @@
         init_map();
         init_wow();
         init_masonry();
+        js_width_init();
+
+//        vertical_content_half_init();
     });
     
     $(window).resize(function(){
         
         init_classic_menu_resize();
         js_height_init();
+        js_width_init();
+
+//        vertical_content_half_init();
         
     });
     
@@ -653,6 +659,24 @@ function js_height_init(){
         $(".js-height-full").height($(window).height());
         $(".js-height-parent").each(function(){
             $(this).height($(this).parent().first().height());
+        });
+    })(jQuery);
+}
+
+function vertical_content_half_init(){
+    (function($){
+        $(".vertical-content-half").height($(".vertical-content-half").parent().height())
+    })(jQuery);
+}
+
+/* ---------------------------------------------
+ Width 100%
+ --------------------------------------------- */
+function js_width_init(){
+    (function($){
+        $(".js-width-full").width($(window).width());
+        $(".js-width-parent").each(function(){
+            $(this).width($(this).parent().first().width());
         });
     })(jQuery);
 }

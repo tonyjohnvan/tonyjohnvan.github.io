@@ -32,12 +32,40 @@
 
 @media only screen and (max-width: 1024px) {
 
+    .modelo-slide-text-wrap h1{
+        font-size: 55px;
+    }
+    .modelo-slide-text-wrap p{
+        font-size: 20px;
+    }
+
+    .fixdis{
+        right: -43%;
+    }
+
+    #footer span.pull-right i{
+        font-size: 30px;
+    }
+    .fix1{
+        right: -30%;
+    }
 
 }
   
 @media only screen and (max-width: 992px) {
 
-	
+    .modelo-slide-text-wrap h1{
+        font-size: 50px;
+    }
+    .modelo-slide-text-wrap p{
+        font-size: 18px;
+    }
+    .fixdis{
+        right: -37%;
+    }
+    .fix1{
+        right: -25%;
+    }
 }
   
   
@@ -46,7 +74,16 @@
    ============================== */
   
 @media only screen and (max-width: 768px) {
-    
+
+
+    .fixdis{
+        display: block;
+        top: 50%;
+        left: 0;
+    }
+    .full-height{
+        height: 50%;
+    }
 
 }
 

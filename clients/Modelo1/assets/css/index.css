@@ -1,3 +1,5 @@
+/* CSS reset */ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td {margin:0; padding:0; } html,body {margin:0; padding:0; font-family: helveticaNeue; } table {border-collapse:collapse; border-spacing:0; } fieldset,img {border:0; } input{border:1px solid #b0b0b0; padding:3px 5px 4px; color:#979797; width:190px; } address,caption,cite,code,dfn,th,var {font-style:normal; font-weight:normal; } ol,ul {list-style:none; } caption,th {text-align:left; } h1,h2,h3,h4,h5,h6 {font-size:100%; font-weight:normal; } q:before,q:after {content:''; } abbr,acronym {border:0; } .clr{clear: both; margin: 10px 0 10px 0; height: 20px; }
+
 @font-face {
     font-family: AvenirNextLTProDemi;
     src: url(../fonts/AvenirNextLTPro-Demi.otf);
@@ -6,9 +8,14 @@
     font-family: AvenirNextLTPro;
     src: url(../fonts/AvenirNextLTPro-Regular.otf);
 }
+::-webkit-scrollbar {
+    /*display: none;*/
+}
+
 body,html{
     font-family: AvenirNextLTPro;
     height: 100%;
+    overflow-x: hidden;
 }
 .container{
     width: 100%;
@@ -20,8 +27,20 @@ body,html{
 }
 
 .navbar.modelo{
-    margin-top: 60px;
-    height: 35px;
+    /*height: 35px;*/
+    position: absolute;
+    top: 0;
+    width: 100%;
+    padding: 60px 0 20px 20px;
+    z-index: 99;
+
+    border-radius: 0;
+
+    -webkit-transition: all 0.36s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+    -moz-transition: all 0.36s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+    -o-transition: all 0.36s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+    -ms-transition: all 0.36s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+    transition: all 0.36s cubic-bezier(0.000, 0.000, 0.580, 1.000);
 }
 
 .navbar-brand.modelo{
@@ -69,6 +88,7 @@ body,html{
 .modelo-full-height{
     height: 100%;
     width: 100%;
+    padding: 0;
 }
 
 .modelo-welcome{
@@ -78,14 +98,32 @@ body,html{
     /*background-size: 100% auto;*/
 }
 
-.modelo-hero-center{
-    text-align: center;
-    /*margin-top: -130px;*/
-    height: 100%;
 
-    -webkit-transform-style: preserve-3d;
-    -moz-transform-style: preserve-3d;
-    transform-style: preserve-3d;
+.modelo-hero-center,
+.modelo-slide-text-center{
+    display: table;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.vertical-center,
+.modelo-slide-text-wrap{
+
+    display: table-cell;
+    /*height: 100%;*/
+    vertical-align: middle;
+}
+.vertical-padding-wrap{
+    padding: 10px 0;
+}
+
+.vertical-layout-text-wrap{
+    padding-top: 40px;
+}
+
+.modelo-slide-wrap{
+    height: 100%;
 }
 .modelo-hero-center h1{
     font-family: AvenirNextLTProDemi;
@@ -96,18 +134,8 @@ body,html{
     font-size: 28px;
     color: #f37551;
 }
-.vertical-center{
-    position: relative;
-    top: 45%;
-    -webkit-transform: translateY(-50%);
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
-}
 .modelo-vertical-container{
     height: 100%;
-    -webkit-transform-style: preserve-3d;
-    -moz-transform-style: preserve-3d;
-    transform-style: preserve-3d;
 }
 .modelo-slide-1{
     background: #58aa95;
@@ -179,7 +207,9 @@ body,html{
 }
 
 .email-sign{
-    margin-top: 150px;
+    width: 100%;
+    text-align: center;
+    display: block;
 }
 
 .email-sign h1{
@@ -194,13 +224,13 @@ body,html{
 .email-input{
     font-family: AvenirNextLTProDemi;
     margin: 50px auto;
-    width: 726px;
+    width: 50%;
     height: 100px;
     border: 4px #f37551 solid;
     border-radius: 4px;
     padding: 30px 50px;
     font-size: 24px;
-    color: #fff;
+    color: #111;
 }
 
 .modelo-footer{

@@ -81,6 +81,23 @@
     .navbar-collapse{
         background: rgba(255,255,255,0.95);
     }
+
+    #footer a{
+        margin: 0 10px;
+    }
+    .footer-wrap{
+        text-align: center  ;
+    }
+    .footer-social-links{
+        display: block;
+        position: relative;
+        width: 100%;
+        padding: 20px;
+    }
+
+    .copy-right {
+        text-align: center;
+    }
 }
 
 

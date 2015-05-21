@@ -6,25 +6,23 @@
 
 @media only screen and (max-width: 1366px) {
 
-
-
 }
 
 @media only screen and (max-width: 1200px) {
 
-
 }
+
 @media only screen and (max-width: 1199px) {
 
-    .fixdis{
+    .fixdis {
         height: 70%;
     }
-    .fixdis > div{
+
+    .fixdis > div {
         background-position: center center;
     }
 
-
-    .modelo-slide-wrap{
+    .modelo-slide-wrap {
         height: initial;
     }
 
@@ -36,18 +34,19 @@
 
 @media only screen and (max-width: 1024px) {
 
-    .modelo-slide-text-wrap h1{
+    .modelo-slide-text-wrap h1 {
         font-size: 55px;
     }
-    .modelo-slide-text-wrap p{
+
+    .modelo-slide-text-wrap p {
         font-size: 20px;
     }
 
-    #footer span.pull-right i{
+    #footer span.pull-right i {
         font-size: 30px;
     }
 
-    .fixdis{
+    .fixdis {
         height: 75%;
     }
 
@@ -55,14 +54,14 @@
 
 @media only screen and (max-width: 992px) {
 
-    .modelo-slide-text-wrap h1{
+    .modelo-slide-text-wrap h1 {
         font-size: 50px;
     }
-    .modelo-slide-text-wrap p{
+
+    .modelo-slide-text-wrap p {
         font-size: 18px;
     }
 }
-
 
 /* ==============================
    Tablet Portrait
@@ -70,25 +69,27 @@
 
 @media only screen and (max-width: 768px) {
 
-
     .fixdis,
-    .vertical-stack-pic{
+    .vertical-stack-pic {
         height: 50%;
     }
 }
+
 @media only screen and (max-width: 767px) {
 
-    .navbar-collapse{
-        background: rgba(255,255,255,0.95);
+    .navbar-collapse {
+        background: rgba(255, 255, 255, 0.95);
     }
 
-    #footer a{
+    #footer a {
         margin: 0 10px;
     }
-    .footer-wrap{
-        text-align: center  ;
+
+    .footer-wrap {
+        text-align: center;
     }
-    .footer-social-links{
+
+    .footer-social-links {
         display: block;
         position: relative;
         width: 100%;
@@ -99,50 +100,54 @@
         text-align: center;
     }
 }
-
 
 /* ==============================
    Phone
    ============================== */
 
 @media only screen and (max-width: 480px) {
-    .modelo-hero-center h1{
+    .modelo-hero-center h1 {
         font-size: 34px;
     }
-    .modelo-hero-center p{
+
+    .modelo-hero-center p {
         font-size: 21px;
         padding-top: 20px;
     }
 
-    .modelo-slide-text-wrap h1{
+    .modelo-slide-text-wrap h1 {
         font-size: 45px;
     }
 
-    .modelo-slide-text-wrap p{
+    .modelo-slide-text-wrap p {
         font-size: 16px;
     }
 
-    .fixdis, .vertical-stack-pic{
+    .fixdis, .vertical-stack-pic {
         height: 40%;
     }
 
-    .email-input{
+    .email-input {
         width: 80%;
     }
-    .modelo-slide-text-wrap h1{
+
+    .modelo-slide-text-wrap h1 {
         font-size: 33px;
     }
-    .modelo-slide-text-wrap p{
+
+    .modelo-slide-text-wrap p {
         padding-top: 20px;
     }
 
-    #footer a{
+    #footer a {
         margin: 0 10px;
     }
-    .footer-wrap{
-        text-align: center  ;
+
+    .footer-wrap {
+        text-align: center;
     }
-    .footer-social-links{
+
+    .footer-social-links {
         display: block;
         position: relative;
         width: 100%;
@@ -153,7 +158,6 @@
         text-align: center;
     }
 }
-
 
 /* ==============================
    Small Phone
@@ -162,20 +166,22 @@
 @media only screen and (max-width: 319px) {
 
     .vertical-content,
-    .vertical-text{
+    .vertical-text {
         display: block;
     }
+
     .vertical-content.modelo-hero {
         display: table;
     }
-    .vertical-text.modelo-hero{
+
+    .vertical-text.modelo-hero {
         display: table-cell;
     }
-  	.nav-social-links{
-  		display: none;
-  	}
-}
 
+    .nav-social-links {
+        display: none;
+    }
+}
 
 /* ==============================
    Max Height 768

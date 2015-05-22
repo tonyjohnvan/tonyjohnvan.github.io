@@ -317,13 +317,19 @@ nav.modelo .container{
 }
 
 .vertical-stack-pic{
-    height: 75%;
+    /*height: 75%;*/
+}
+
+
+.vertical-img{
+    width: 100%;
 }
 
 .vertical-img.horizontal{
-    height: 100%;
+    height: 90%;
+    width: auto;
 }
 
-.vertical-img{
-    height: 80%;
+.col-lg-3{
+    width: 35%;
 }

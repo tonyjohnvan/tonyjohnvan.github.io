@@ -28,15 +28,20 @@
         height: auto;
     }
 
-    .col-lg-4.modelo-slide-wrap {
+    .col-lg-3.modelo-slide-wrap {
         height: initial;
     }
 
     .full-height.picfix {
         height: initial;
     }
-    .vertical-stack-pic{
-        height: initial;
+    /*.vertical-stack-pic{*/
+        /*height: initial;*/
+    /*}*/
+
+    .vertical-img.horizontal{
+        width: 100%;
+        /*height: auto;*/
     }
 }
 

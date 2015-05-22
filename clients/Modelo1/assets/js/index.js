@@ -13,7 +13,7 @@ $(function () {
     new Image().src = "assets/img/embed.gif";
 
     $('body').scroll(function () {
-        if (($('.modelo-welcome').offset().top < 0)) {
+        if (($('.modelo-welcome').offset().top < (0 - $(window).height()))) {
             $('.js-nav').css({
                 'background': 'rgba(255,255,255,0.95)',
                 'padding': '20px 0 20px 20px',
@@ -22,6 +22,12 @@ $(function () {
                 'box-shadow': '1px 2px 3px rgba(0, 0, 0, .1)'
             });
             navExpand = 1;
+            $('.modelo-hero-center').css({
+                'margin-top' : '0'
+            });
+            $('.navbar.modelo').css({
+                'position': 'absolute'
+            });
         } else if (navExpand == 1 && subNavExpand == 0) {
             $('.js-nav').css({
                 'background': 'transparent',
@@ -30,6 +36,23 @@ $(function () {
                 '-moz-box-shadow': 'none',
                 'box-shadow': 'none'
             });
+            $('.modelo-hero-center').css({
+                'margin-top' : '20px'
+            });
+
+            $('.navbar.modelo').css({
+                'opacity': '0'
+            });
+            setTimeout(function(){
+                $('.navbar.modelo').css({
+                    'position': 'initial',
+                    'opacity': '1'
+                });
+                $('.modelo-hero-center').css({
+                    'margin-top' : '-120px'
+                });
+            },370);
+
             navExpand = 0;
         } else {
 

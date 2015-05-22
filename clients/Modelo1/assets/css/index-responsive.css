@@ -14,19 +14,32 @@
 
 @media only screen and (max-width: 1199px) {
 
-    .fixdis {
-        height: 70%;
+}
+
+
+/* ==============================
+    Smaller than 1164: mobile View
+   ============================== */
+
+@media only screen and (max-width: 1163px) {
+
+    .vertical-img{
+        width: 100%;
+        height: auto;
     }
 
-    .fixdis > div {
-        background-position: center center;
-    }
-
-    .modelo-slide-wrap {
+    .col-lg-4.modelo-slide-wrap {
         height: initial;
     }
 
+    .full-height.picfix {
+        height: initial;
+    }
+    .vertical-stack-pic{
+        height: initial;
+    }
 }
+
 
 /* ==============================
    Tablet landskape
@@ -46,9 +59,10 @@
         font-size: 30px;
     }
 
-    .fixdis {
-        height: 75%;
-    }
+    /*.fixdis {*/
+        /*height: 75%;*/
+    /*}*/
+
 
 }
 
@@ -69,10 +83,10 @@
 
 @media only screen and (max-width: 768px) {
 
-    .fixdis,
-    .vertical-stack-pic {
-        height: 50%;
-    }
+    /*.fixdis,*/
+    /*.vertical-stack-pic {*/
+        /*height: 50%;*/
+    /*}*/
 }
 
 @media only screen and (max-width: 767px) {
@@ -123,9 +137,9 @@
         font-size: 16px;
     }
 
-    .fixdis, .vertical-stack-pic {
-        height: 40%;
-    }
+    /*.fixdis, .vertical-stack-pic {*/
+        /*height: 40%;*/
+    /*}*/
 
     .email-input {
         width: 80%;

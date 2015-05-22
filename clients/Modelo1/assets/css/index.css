@@ -28,7 +28,7 @@ body,html{
 
 .navbar.modelo{
     /*height: 35px;*/
-    position: absolute;
+    /*position: absolute;*/
     top: 0;
     width: 100%;
     padding: 60px 0 20px 20px;
@@ -99,12 +99,25 @@ body,html{
 }
 
 
-.modelo-hero-center,
+.modelo-hero-center{
+    display: table;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    margin-top: -120px;
+
+    /*-webkit-transition: all 0.36s cubic-bezier(0.000, 0.000, 0.580, 1.000);*/
+    /*-moz-transition: all 0.36s cubic-bezier(0.000, 0.000, 0.580, 1.000);*/
+    /*-o-transition: all 0.36s cubic-bezier(0.000, 0.000, 0.580, 1.000);*/
+    /*-ms-transition: all 0.36s cubic-bezier(0.000, 0.000, 0.580, 1.000);*/
+    /*transition: all 0.36s cubic-bezier(0.000, 0.000, 0.580, 1.000);*/
+}
 .modelo-slide-text-center{
     display: table;
     width: 100%;
     height: 100%;
     text-align: center;
+    margin: 0 auto;
 }
 
 .vertical-center,
@@ -119,7 +132,7 @@ body,html{
 }
 
 .vertical-layout-text-wrap{
-    padding-top: 40px;
+    padding-top: 60px;
 }
 
 .modelo-slide-wrap{
@@ -197,9 +210,9 @@ body,html{
     padding-top: 5%;
     padding-bottom: 1%;
 }
-.vertical-stack-pic{
-    height: 75%;
-}
+/*.vertical-stack-pic{*/
+    /*height: 75%;*/
+/*}*/
 
 #signUp{
     height: 535px;
@@ -301,4 +314,16 @@ nav.modelo .container{
     max-width: 1164px;
     overflow: visible;
     padding: 0 17px;
+}
+
+.vertical-stack-pic{
+    height: 75%;
+}
+
+.vertical-img.horizontal{
+    height: 100%;
+}
+
+.vertical-img{
+    height: 80%;
 }

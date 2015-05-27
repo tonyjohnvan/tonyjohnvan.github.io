@@ -23,8 +23,11 @@
 
 @media only screen and (max-width: 1163px) {
 
+    .col-lg-3{
+        width: auto;
+    }
     .vertical-img{
-        width: 100%;
+        width: 90%;
         height: auto;
     }
 
@@ -40,8 +43,14 @@
     /*}*/
 
     .vertical-img.horizontal{
-        width: 100%;
-        /*height: auto;*/
+        width: 90%;
+        height: auto;
+    }
+    .vertical-layout-text-wrap {
+         padding-top: 20px;
+     }
+    .modelo-slide-text-center{
+        padding-top: 10px;
     }
 }
 
@@ -78,7 +87,7 @@
     }
 
     .modelo-slide-text-wrap p {
-        font-size: 18px;
+        font-size: 20px;
     }
 }
 
@@ -88,10 +97,12 @@
 
 @media only screen and (max-width: 768px) {
 
-    /*.fixdis,*/
-    /*.vertical-stack-pic {*/
-        /*height: 50%;*/
-    /*}*/
+    .modelo-hero-center h1{
+        font-size: 52px;
+    }
+    .modelo-hero-center p {
+        font-size: 24px;
+    }
 }
 
 @media only screen and (max-width: 767px) {
@@ -130,7 +141,7 @@
     }
 
     .modelo-hero-center p {
-        font-size: 21px;
+        font-size: 18px;
         padding-top: 20px;
     }
 
@@ -178,6 +189,15 @@
     }
 }
 
+@media only screen and (max-width: 375px) {
+    .modelo-hero-center h1 {
+        font-size: 28px;
+    }
+
+    .modelo-slide-text-wrap h1 {
+        font-size: 25px;
+    }
+}
 /* ==============================
    Small Phone
    ============================== */

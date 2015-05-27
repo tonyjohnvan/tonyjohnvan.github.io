@@ -74,6 +74,8 @@ body,html{
     color: #ffffff;
     background: #f37551;
     box-shadow: 0px 1px 2px rgba(0,0,0,0.29);
+    margin-left: 12px;
+    margin-top: 4px;
 }
 .btn-modelo:hover,
 .btn-modelo:active{
@@ -132,7 +134,7 @@ body,html{
 }
 
 .vertical-layout-text-wrap{
-    padding-top: 60px;
+    /*padding-top: 60px;*/
 }
 
 .modelo-slide-wrap{
@@ -322,7 +324,8 @@ nav.modelo .container{
 
 
 .vertical-img{
-    width: 100%;
+    width: 90%;
+    /*height: 20%;*/
 }
 
 .vertical-img.horizontal{
@@ -332,4 +335,7 @@ nav.modelo .container{
 
 .col-lg-3{
     width: 35%;
+}
+.navbar-toggle{
+    margin-top: 2px;
 }

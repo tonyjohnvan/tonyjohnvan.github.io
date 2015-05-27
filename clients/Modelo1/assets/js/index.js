@@ -1,7 +1,8 @@
+
+var navExpand = 0;
+var subNavExpand = 0;
 $(function () {
 
-    var navExpand = 0;
-    var subNavExpand = 0;
     /*image preload*/
     new Image().src = "assets/img/3dcomment.gif";
     new Image().src = "assets/img/shareview.gif";
@@ -77,7 +78,7 @@ $(function () {
         } else {
             subNavExpand = 0;
         }
-    })
+    });
 
 
     $(".onepagescroll").onepage_scroll({
@@ -97,10 +98,12 @@ $(function () {
                     'box-shadow': 'none',
                 });
                 navExpand = 0;
+            } else if(index == 1 && navExpand == 1 && subNavExpand == 1){
+                navExpand = 0;
             } else if (index > 1) {
                 $('.js-nav').css({
                     'background': 'rgba(255,255,255,0.95)',
-                    'padding': '20px 0 20px 20px',
+                    'padding': '10px 0 10px 20px',
                     '-webkit-box-shadow': '1px 2px 3px rgba(0, 0, 0, .1)',
                     '-moz-box-shadow': '1px 2px 3px rgba(0, 0, 0, .1)',
                     'box-shadow': '1px 2px 3px rgba(0, 0, 0, .1)',

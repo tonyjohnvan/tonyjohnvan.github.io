@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bec1d80d-fafc-426e-911e-a324406bcd1e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cn/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/assets/css/index-responsive.css" afterPath="$PROJECT_DIR$/clients/Modelo1/assets/css/index-responsive.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/assets/css/index.css" afterPath="$PROJECT_DIR$/clients/Modelo1/assets/css/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/index.html" afterPath="$PROJECT_DIR$/clients/Modelo1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/assets/js/index.js" afterPath="$PROJECT_DIR$/clients/Modelo1/assets/js/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tonyjohnvan.iws" />
@@ -32,28 +34,18 @@
           <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/clients/Modelo1/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-19.208334" vertical-offset="949" max-vertical-offset="3855">
-                  <caret line="94" column="30" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
+                <state vertical-scroll-proportion="-5.3" vertical-offset="2420" max-vertical-offset="3855">
+                  <caret line="179" column="57" selection-start-line="179" selection-start-column="57" selection-end-line="179" selection-end-column="57" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/cn/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.20231214" vertical-offset="11200" max-vertical-offset="12615">
-                  <caret line="756" column="51" selection-start-line="756" selection-start-column="51" selection-end-line="756" selection-end-column="51" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/js/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="1148" max-vertical-offset="2730">
-                  <caret line="102" column="50" selection-start-line="102" selection-start-column="50" selection-end-line="102" selection-end-column="50" />
+                <state vertical-scroll-proportion="0.10474861" vertical-offset="1500" max-vertical-offset="2775">
+                  <caret line="105" column="40" selection-start-line="105" selection-start-column="40" selection-end-line="105" selection-end-column="40" />
                   <folding />
                 </state>
               </provider>
@@ -63,11 +55,21 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/css/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.5229111" vertical-offset="4337" max-vertical-offset="5100">
-                  <caret line="315" column="25" selection-start-line="315" selection-start-column="25" selection-end-line="315" selection-end-column="25" />
+                <state vertical-scroll-proportion="0.45810056" vertical-offset="827" max-vertical-offset="5190">
+                  <caret line="77" column="20" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index-responsive.css" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/css/index-responsive.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-105.34615" vertical-offset="81" max-vertical-offset="3540">
+                  <caret line="188" column="5" selection-start-line="188" selection-start-column="5" selection-end-line="188" selection-end-column="5" />
                   <folding />
                 </state>
               </provider>
@@ -131,20 +133,21 @@
         <option value="$PROJECT_DIR$/clients/Modelo3/css/style-responsive.css" />
         <option value="$PROJECT_DIR$/clients/Modelo3/css/style.css" />
         <option value="$PROJECT_DIR$/clients/Modelo3/index.html" />
-        <option value="$PROJECT_DIR$/clients/Modelo1/assets/css/index-responsive.css" />
         <option value="$PROJECT_DIR$/clients/Modelo1/assets/css/smoothscrool.css" />
         <option value="$PROJECT_DIR$/clients/Modelo1/assets/js/ie8-responsive-file-warning.js" />
         <option value="$PROJECT_DIR$/clients/Modelo1/assets/js/smoothscrool.js" />
         <option value="$PROJECT_DIR$/clients/Modelo1/assets/css/onepagescroll.css" />
         <option value="$PROJECT_DIR$/clients/Modelo1/assets/js/fullPage.js" />
-        <option value="$PROJECT_DIR$/clients/Modelo1/assets/css/index.css" />
-        <option value="$PROJECT_DIR$/clients/Modelo1/assets/js/index.js" />
-        <option value="$PROJECT_DIR$/clients/Modelo1/index.html" />
         <option value="$PROJECT_DIR$/cn/index.html" />
+        <option value="$PROJECT_DIR$/clients/Modelo1/index.html" />
+        <option value="$PROJECT_DIR$/clients/Modelo1/assets/css/index-responsive.css" />
+        <option value="$PROJECT_DIR$/clients/Modelo1/assets/js/index.js" />
+        <option value="$PROJECT_DIR$/clients/Modelo1/assets/css/index.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="873" />
@@ -175,6 +178,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -207,9 +211,88 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tonyjohnvan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tonyjohnvan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tonyjohnvan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tonyjohnvan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modelo1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tonyjohnvan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tonyjohnvan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modelo1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tonyjohnvan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tonyjohnvan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modelo1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -303,7 +386,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <frame x="10" y="23" width="1440" height="873" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -579,14 +662,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/css/index-responsive.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.061643835" vertical-offset="0" max-vertical-offset="3240">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/clients/Modelo3/js/all.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16736402" vertical-offset="10140" max-vertical-offset="11700">
@@ -598,18 +673,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="98850">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/css/bootstrap.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="713">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/css/bootstrap.min.css">
@@ -627,13 +701,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/css/bootstrap-theme.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/css/bootstrap-theme.min.css">
@@ -661,7 +735,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.1952192" vertical-offset="0" max-vertical-offset="1500">
           <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -669,7 +742,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.06081081" vertical-offset="0" max-vertical-offset="740">
           <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -680,34 +752,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/css/index.css">
+    <entry file="file://$PROJECT_DIR$/cn/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5229111" vertical-offset="4337" max-vertical-offset="5100">
-          <caret line="315" column="25" selection-start-line="315" selection-start-column="25" selection-end-line="315" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1148" max-vertical-offset="2730">
-          <caret line="102" column="50" selection-start-line="102" selection-start-column="50" selection-end-line="102" selection-end-column="50" />
+        <state vertical-scroll-proportion="0.33236995" vertical-offset="1600" max-vertical-offset="12615">
+          <caret line="122" column="20" selection-start-line="122" selection-start-column="16" selection-end-line="122" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clients/Modelo1/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.208334" vertical-offset="949" max-vertical-offset="3855">
-          <caret line="94" column="30" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
+        <state vertical-scroll-proportion="-5.3" vertical-offset="2420" max-vertical-offset="3855">
+          <caret line="179" column="57" selection-start-line="179" selection-start-column="57" selection-end-line="179" selection-end-column="57" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cn/index.html">
+    <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/css/index-responsive.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20231214" vertical-offset="11200" max-vertical-offset="12615">
-          <caret line="756" column="51" selection-start-line="756" selection-start-column="51" selection-end-line="756" selection-end-column="51" />
+        <state vertical-scroll-proportion="-105.34615" vertical-offset="81" max-vertical-offset="3540">
+          <caret line="188" column="5" selection-start-line="188" selection-start-column="5" selection-end-line="188" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10474861" vertical-offset="1500" max-vertical-offset="2775">
+          <caret line="105" column="40" selection-start-line="105" selection-start-column="40" selection-end-line="105" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45810056" vertical-offset="827" max-vertical-offset="5190">
+          <caret line="77" column="20" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
           <folding />
         </state>
       </provider>

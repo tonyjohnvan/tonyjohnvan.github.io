@@ -135,6 +135,7 @@ body,html{
 
 .vertical-layout-text-wrap{
     /*padding-top: 60px;*/
+    padding: 0 10%;
 }
 
 .modelo-slide-wrap{
@@ -168,6 +169,7 @@ body,html{
 .modelo-slide-text-wrap h1{
     font-family: AvenirNextLTProDemi;
     font-size: 64px;
+    font-size: 56px;
     color: #ffffff;
 }
 .modelo-slide-text-wrap p{
@@ -334,7 +336,7 @@ nav.modelo .container{
 }
 
 .col-lg-3{
-    width: 35%;
+    width: 40%;
 }
 .navbar-toggle{
     margin-top: 2px;

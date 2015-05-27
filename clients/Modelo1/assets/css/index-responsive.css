@@ -197,6 +197,9 @@
     .modelo-slide-text-wrap h1 {
         font-size: 25px;
     }
+    #footer{
+        padding: 30px 10px;
+    }
 }
 /* ==============================
    Small Phone

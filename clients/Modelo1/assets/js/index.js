@@ -69,7 +69,7 @@ $(function () {
         } else if (navExpand == 0) {
             $('.js-nav').css({
                 'background': 'transparent',
-                'padding': '60px 0 20px 20px',
+                'padding': '36px 0 20px 20px',
                 '-webkit-box-shadow': 'none',
                 '-moz-box-shadow': 'none',
                 'box-shadow': 'none'
@@ -92,7 +92,7 @@ $(function () {
             if (index == 1 && navExpand == 1 && subNavExpand == 0) {
                 $('.js-nav').css({
                     'background': 'transparent',
-                    'padding': '60px 0 20px 20px',
+                    'padding': '36px 0 20px 20px',
                     '-webkit-box-shadow': 'none',
                     '-moz-box-shadow': 'none',
                     'box-shadow': 'none',

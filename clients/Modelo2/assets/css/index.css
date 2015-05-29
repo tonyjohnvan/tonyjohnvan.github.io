@@ -369,9 +369,12 @@ nav.modelo .container{
 }
 
 .modeloInputGroup input,
-.modeloInputGroup button{
+.modeloInputGroup button,
+.modeloInputGroup input:focus,
+.modeloInputGroup button:focus{
     border: none;
-    vertical-align: text-top;;
+    vertical-align: text-top;
+    outline: none !important;
 }
 .modeloInputGroup button{
     padding: 0 10px 0;

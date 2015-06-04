@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bec1d80d-fafc-426e-911e-a324406bcd1e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo1/assets/img/BG.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/assets/img/3dcomment.gif" afterPath="$PROJECT_DIR$/clients/Modelo1/assets/img/3dcomment.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/assets/fonts/AvenirNextLTPro-Demi.otf" afterPath="$PROJECT_DIR$/clients/Modelo1/assets/fonts/AvenirNextLTPro-Demi.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/assets/fonts/AvenirNextLTPro-Regular.otf" afterPath="$PROJECT_DIR$/clients/Modelo1/assets/fonts/AvenirNextLTPro-Regular.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/assets/img/BG@2x.jpg" afterPath="$PROJECT_DIR$/clients/Modelo1/assets/img/BG@2x.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/assets/img/path.gif" afterPath="$PROJECT_DIR$/clients/Modelo1/assets/img/path.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/assets/css/bootstrap.css" afterPath="$PROJECT_DIR$/clients/Modelo1/assets/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/assets/css/index-responsive.css" afterPath="$PROJECT_DIR$/clients/Modelo1/assets/css/index-responsive.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/assets/css/index.css" afterPath="$PROJECT_DIR$/clients/Modelo1/assets/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/index.html" afterPath="$PROJECT_DIR$/clients/Modelo1/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/assets/js/index.js" afterPath="$PROJECT_DIR$/clients/Modelo1/assets/js/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/assets/css/onepagescroll.css" afterPath="$PROJECT_DIR$/clients/Modelo1/assets/css/onepagescroll.css" />
     </list>
     <ignored path="tonyjohnvan.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,8 +44,8 @@
           <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/js/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6959459" vertical-offset="775" max-vertical-offset="1740">
-                  <caret line="86" column="19" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
+                <state vertical-scroll-proportion="0.6351351" vertical-offset="1000" max-vertical-offset="1785">
+                  <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -760,8 +749,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6959459" vertical-offset="775" max-vertical-offset="1740">
-          <caret line="86" column="19" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.6351351" vertical-offset="1000" max-vertical-offset="1785">
+          <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
           <folding />
         </state>
       </provider>

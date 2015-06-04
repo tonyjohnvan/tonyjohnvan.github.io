@@ -2,106 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bec1d80d-fafc-426e-911e-a324406bcd1e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/img/3dcomment.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/img/3dcommentS.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/img/BG.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/img/BG@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/img/Modelo_logo_L.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/img/Modelo_logo_L@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/img/path.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/js/fullPage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/js/ie-emulation-modes-warning.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/js/ie10-viewport-bug-workaround.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/js/ie8-responsive-file-warning.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/css/index-responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/css/onepagescroll.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/js/onepagescroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/img/send_email.svg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/css/animate.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/css/et-line.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/css/magnific-popup.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/css/owl.carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/css/style-responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/css/vertical-rhythm.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/fonts/et-line.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/fonts/et-line.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/fonts/et-line.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/fonts/et-line.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/img/3dcomment.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/img/Modelo_logo_L.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/img/Modelo_logo_L@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/img/path.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/SmoothScroll.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/all.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/contact-form.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/gmap3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/imagesloaded.pkgd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/isotope.pkgd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/jquery-1.11.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/jquery.ajaxchimp.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/jquery.appear.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/jquery.countTo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/jquery.easing.1.3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/jquery.fitvids.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/jquery.localScroll.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/jquery.magnific-popup.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/jquery.mb.YTPlayer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/jquery.parallax-1.1.3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/jquery.scrollTo.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/jquery.simple-text-rotator.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/jquery.sticky.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/jquery.viewport.mini.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/masonry.pkgd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/owl.carousel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/placeholder.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/rev-slider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/wow.min.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/clients/Modelo3/fonts/AvenirNextLTPro-Demi.otf" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/AvenirNextLTPro-Demi.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/clients/Modelo3/fonts/AvenirNextLTPro-Regular.otf" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/AvenirNextLTPro-Regular.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/clients/Modelo3/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/clients/Modelo3/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/clients/Modelo3/img/BG.jpg" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/img/BGOLD.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/clients/Modelo3/img/BG@2x.jpg" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/img/BGOLD@2x.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/clients/Modelo3/img/Modelo_logo_S.png" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/img/Modelo_logo_S.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/clients/Modelo3/img/Modelo_logo_S@2x.png" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/img/Modelo_logo_S@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/clients/Modelo3/img/embed.gif" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/img/embed.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/clients/Modelo3/img/facebook.svg" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/img/facebook.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/clients/Modelo3/img/pinterest.svg" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/img/pinterest.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/clients/Modelo3/img/shareview.gif" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/img/shareview.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/clients/Modelo3/img/twitter.svg" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/img/twitter.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/clients/Modelo3/img/vimeo.svg" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/img/vimeo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/clients/Modelo3/js/jquery-1.11.2.min.js" afterPath="$PROJECT_DIR$/clients/Modelo3/assets/js/jquery1112.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo2/assets/css/index.css" afterPath="$PROJECT_DIR$/clients/Modelo2/assets/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo3/index.html" afterPath="$PROJECT_DIR$/clients/Modelo3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/Modelo1/assets/img/BG.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/assets/img/3dcomment.gif" afterPath="$PROJECT_DIR$/clients/Modelo1/assets/img/3dcomment.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/assets/fonts/AvenirNextLTPro-Demi.otf" afterPath="$PROJECT_DIR$/clients/Modelo1/assets/fonts/AvenirNextLTPro-Demi.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/assets/fonts/AvenirNextLTPro-Regular.otf" afterPath="$PROJECT_DIR$/clients/Modelo1/assets/fonts/AvenirNextLTPro-Regular.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/assets/img/BG@2x.jpg" afterPath="$PROJECT_DIR$/clients/Modelo1/assets/img/BG@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/assets/img/path.gif" afterPath="$PROJECT_DIR$/clients/Modelo1/assets/img/path.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/assets/css/bootstrap.css" afterPath="$PROJECT_DIR$/clients/Modelo1/assets/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/assets/css/index-responsive.css" afterPath="$PROJECT_DIR$/clients/Modelo1/assets/css/index-responsive.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/assets/css/index.css" afterPath="$PROJECT_DIR$/clients/Modelo1/assets/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/index.html" afterPath="$PROJECT_DIR$/clients/Modelo1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/assets/js/index.js" afterPath="$PROJECT_DIR$/clients/Modelo1/assets/js/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/Modelo1/assets/css/onepagescroll.css" afterPath="$PROJECT_DIR$/clients/Modelo1/assets/css/onepagescroll.css" />
     </list>
     <ignored path="tonyjohnvan.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -126,21 +38,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/clients/Modelo3/index.html">
+          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/clients/Modelo1/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-0.0" vertical-offset="420" max-vertical-offset="3900">
-                  <caret line="28" column="122" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/clients/Modelo3/assets/css/index.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.19522777" vertical-offset="0" max-vertical-offset="5850">
-                  <caret line="12" column="33" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+                <state vertical-scroll-proportion="0.10474861" vertical-offset="0" max-vertical-offset="4470">
+                  <caret line="5" column="84" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="84" />
                   <folding />
                 </state>
               </provider>
@@ -150,21 +52,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/clients/Modelo3/assets/css/index.css">
+          <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/js/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="4898" max-vertical-offset="5850">
-                  <caret line="376" column="31" selection-start-line="376" selection-start-column="31" selection-end-line="376" selection-end-column="31" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index-responsive.css" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/clients/Modelo3/assets/css/index-responsive.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.7593583" vertical-offset="3040" max-vertical-offset="4020">
-                  <caret line="250" column="44" selection-start-line="250" selection-start-column="23" selection-end-line="250" selection-end-column="23" />
+                <state vertical-scroll-proportion="0.6959459" vertical-offset="775" max-vertical-offset="1740">
+                  <caret line="86" column="19" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
                   <folding />
                 </state>
               </provider>
@@ -231,23 +123,23 @@
         <option value="$PROJECT_DIR$/clients/Modelo1/assets/css/onepagescroll.css" />
         <option value="$PROJECT_DIR$/clients/Modelo1/assets/js/fullPage.js" />
         <option value="$PROJECT_DIR$/cn/index.html" />
-        <option value="$PROJECT_DIR$/clients/Modelo1/index.html" />
         <option value="$PROJECT_DIR$/clients/Modelo1/assets/css/index-responsive.css" />
         <option value="$PROJECT_DIR$/clients/Modelo2/assets/css/index-responsive.css" />
         <option value="$PROJECT_DIR$/clients/Modelo1/assets/css/index.css" />
-        <option value="$PROJECT_DIR$/clients/Modelo1/assets/js/index.js" />
         <option value="$PROJECT_DIR$/clients/Modelo2/assets/js/index.js" />
         <option value="$PROJECT_DIR$/clients/Modelo2/index.html" />
         <option value="$PROJECT_DIR$/clients/Modelo2/assets/css/index.css" />
         <option value="$PROJECT_DIR$/clients/Modelo3/assets/css/index.css" />
         <option value="$PROJECT_DIR$/clients/Modelo3/assets/css/index-responsive.css" />
+        <option value="$PROJECT_DIR$/clients/Modelo1/index.html" />
+        <option value="$PROJECT_DIR$/clients/Modelo1/assets/js/index.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="1053" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -290,7 +182,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tonyjohnvanSite" />
+              <option name="myItemId" value="tonyjohnvan" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -300,11 +192,77 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tonyjohnvanSite" />
+              <option name="myItemId" value="tonyjohnvan" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="clients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tonyjohnvan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tonyjohnvan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modelo1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tonyjohnvan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tonyjohnvan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modelo1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tonyjohnvan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tonyjohnvan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modelo1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -342,6 +300,14 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -352,12 +318,14 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
       <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -365,16 +333,6 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" />
-      <option name="executablePath" />
-      <option name="filePath" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -403,14 +361,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1053" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17114271" sideWeight="0.67" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17054264" sideWeight="0.67" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -418,12 +376,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3256705" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3256705" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -452,7 +410,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3090" max-vertical-offset="13635">
           <caret line="206" column="0" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -460,7 +417,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="5655" max-vertical-offset="5745">
           <caret line="377" column="1" selection-start-line="377" selection-start-column="1" selection-end-line="377" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -468,7 +424,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2288" max-vertical-offset="2775">
           <caret line="97" column="21" selection-start-line="97" selection-start-column="21" selection-end-line="97" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -476,7 +431,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="3690">
           <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -637,13 +591,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/css/bootstrap.css.map">
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="713">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/css/bootstrap.min.css">
@@ -661,13 +615,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/css/bootstrap-theme.css.map">
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/css/bootstrap-theme.min.css">
@@ -688,13 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.06081081" vertical-offset="0" max-vertical-offset="740">
           <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clients/Modelo1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38997215" vertical-offset="2420" max-vertical-offset="3855">
-          <caret line="180" column="28" selection-start-line="180" selection-start-column="28" selection-end-line="180" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -733,7 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1764706" vertical-offset="0" max-vertical-offset="935">
           <caret line="11" column="56" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -741,7 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7559653" vertical-offset="4838" max-vertical-offset="5805">
           <caret line="369" column="2" selection-start-line="369" selection-start-column="0" selection-end-line="377" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -749,9 +694,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="34845">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -759,15 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2963776" vertical-offset="1425" max-vertical-offset="3990">
           <caret line="113" column="25" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9023861" vertical-offset="1853" max-vertical-offset="2775">
-          <caret line="179" column="3" selection-start-line="179" selection-start-column="3" selection-end-line="179" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -783,7 +716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.4117647" vertical-offset="1840" max-vertical-offset="2775">
           <caret line="97" column="21" selection-start-line="97" selection-start-column="21" selection-end-line="97" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -791,30 +723,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3690">
           <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clients/Modelo3/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="420" max-vertical-offset="3900">
-          <caret line="28" column="122" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clients/Modelo3/assets/css/index-responsive.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7593583" vertical-offset="3040" max-vertical-offset="4020">
-          <caret line="250" column="44" selection-start-line="250" selection-start-column="23" selection-end-line="250" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.083798885" vertical-offset="375" max-vertical-offset="3900">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clients/Modelo3/assets/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19522777" vertical-offset="0" max-vertical-offset="5850">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.7162162" vertical-offset="5110" max-vertical-offset="5850">
+          <caret line="376" column="31" selection-start-line="376" selection-start-column="31" selection-end-line="376" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clients/Modelo3/assets/css/index-responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6719788" vertical-offset="3244" max-vertical-offset="4020">
+          <caret line="250" column="23" selection-start-line="250" selection-start-column="23" selection-end-line="250" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clients/Modelo1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10474861" vertical-offset="0" max-vertical-offset="4470">
+          <caret line="5" column="84" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6959459" vertical-offset="775" max-vertical-offset="1740">
+          <caret line="86" column="19" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
           <folding />
         </state>
       </provider>

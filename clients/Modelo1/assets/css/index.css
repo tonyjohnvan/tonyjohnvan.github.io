@@ -31,9 +31,11 @@ body,html{
     position: absolute;
     top: 0;
     width: 100%;
-    padding: 36px 0 20px 20px;
+    padding: 25px 0 20px 20px;
     z-index: 99;
 
+    background-color: rgba(142, 142, 142, 0.50);
+    
     border-radius: 0;
 
     -webkit-transition: all 0.36s cubic-bezier(0.000, 0.000, 0.580, 1.000);
@@ -45,17 +47,18 @@ body,html{
 
 .navbar-brand.modelo{
     /*padding: 0;*/
-    margin: 2px 20px;
-    width: 185px;
-    height: 35px;
+    margin: 5px 20px 0px 20px;
+    width: 148px;
+    height: 28px;
     background: url(../img/Modelo_logo_L@2x.png) center center no-repeat;
-    background-size: 185px 35px;
+    background-size: 148px 28px;
 }
+
 
 @media (min-width: 768px) {
     .navbar-nav > li > a {
-        padding-top: 10px;
-        padding-bottom: 10px;
+        padding-top: 11px;
+        padding-bottom: 9px;
     }
 }
 
@@ -75,7 +78,7 @@ body,html{
     background: #f37551;
     box-shadow: 0px 1px 2px rgba(0,0,0,0.29);
     margin-left: 12px;
-    margin-top: 4px;
+    margin-top: 2px;
 }
 .btn-modelo:hover,
 .btn-modelo:active{
@@ -96,7 +99,7 @@ body,html{
 .modelo-welcome{
 
     box-sizing: border-box;
-    background: url(../img/BG@2x.jpg) center center no-repeat;
+    background: url(../img/BG@2x.png) center center no-repeat;
     /*background-size: 100% auto;*/
 }
 
@@ -169,17 +172,22 @@ body,html{
 .modelo-slide-text-wrap h1{
     font-family: AvenirNextLTProDemi;
     font-size: 64px;
-    font-size: 56px;
+    font-size: 48px;
     color: #ffffff;
 }
 .modelo-slide-text-wrap p{
     font-family: AvenirNextLTPro;
-    font-size: 24px;
+    font-size: 19px;
+    line-height: 31px;
     color: #ffffff;
+    margin-top: 18px;
+    max-width: 610px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .modelo-slide-text-wrap.black-text h1,
 .modelo-slide-text-wrap.black-text p{
-    color: #000000;
+    color: #333333;
 }
 .full-height{
     height: 100%;
@@ -219,7 +227,7 @@ body,html{
 /*}*/
 
 #signUp{
-    height: 70%;
+    height: 75%;
     text-align: center;
 }
 
@@ -238,20 +246,25 @@ body,html{
     font-size: 18px;
     color: #333;
 }
-.email-input{
-    font-family: AvenirNextLTProDemi;
-    margin: 50px auto;
-    width: 50%;
-    height: 100px;
-    border: 4px #f37551 solid;
-    border-radius: 4px;
-    padding: 30px 50px;
-    font-size: 24px;
-    color: #111;
+
+/*change the corlor of the placeholder*/
+::-webkit-input-placeholder { /* WebKit browsers */
+    color: #d1d1d1;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:    #d1d1d1;
+    opacity:  1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:    #d1d1d1;
+    opacity:  1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color:    #d1d1d1;
 }
 
 .modelo-footer{
-    height: 30%;
+    height: 25%;
     background: #f8f8f8;
 }
 
@@ -336,8 +349,37 @@ nav.modelo .container{
 }
 
 .col-lg-3{
-    width: 30%;
+    width: 35%;
 }
 .navbar-toggle{
     margin-top: 2px;
+}
+
+.email-input{
+    font-family: AvenirNextLTProDemi;
+    width: 100%;
+    font-size: 24px;
+    color: #333
+}
+.modeloInputGroup{
+    width: 50%;    margin: 50px auto;
+
+    height: 85px;
+    border: 4px #f37551 solid;
+    border-radius: 4px;
+    padding: 20px 10px 20px 30px;
+}
+
+.modeloInputGroup input,
+.modeloInputGroup button,
+.modeloInputGroup input:focus,
+.modeloInputGroup button:focus,
+.modeloInputGroup button:active{
+    border: none;
+    vertical-align: text-top;
+    outline: none !important;
+}
+.modeloInputGroup button{
+    cursor: pointer;
+    padding: 0 10px 0;
 }

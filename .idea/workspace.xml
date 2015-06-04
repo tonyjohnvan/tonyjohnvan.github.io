@@ -44,8 +44,8 @@
           <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/js/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6351351" vertical-offset="1000" max-vertical-offset="1785">
-                  <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+                <state vertical-scroll-proportion="0.7364865" vertical-offset="1120" max-vertical-offset="1950">
+                  <caret line="111" column="22" selection-start-line="111" selection-start-column="22" selection-end-line="111" selection-end-column="22" />
                   <folding />
                 </state>
               </provider>
@@ -749,8 +749,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6351351" vertical-offset="1000" max-vertical-offset="1785">
-          <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.7364865" vertical-offset="1120" max-vertical-offset="1950">
+          <caret line="111" column="22" selection-start-line="111" selection-start-column="22" selection-end-line="111" selection-end-column="22" />
           <folding />
         </state>
       </provider>

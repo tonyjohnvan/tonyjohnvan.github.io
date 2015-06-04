@@ -85,20 +85,31 @@ $(function () {
         switch ( window.orientation ) {
 
             case 0:
+            {
                 $('#viewport').attr('content','initial-scale = 1.0, user-scalable = no');
                 GIFverticalFit();
+            }
                 break;
 
             case 90:
+            {
                 $('#viewport').attr('content','initial-scale = 0.5, user-scalable = no');
                 GIFverticalFit();
+            }
                 break;
 
             case -90:
+            {
                 $('#viewport').attr('content','initial-scale = 0.5, user-scalable = no');
                 GIFverticalFit();
+            }
                 break;
-
+            default :
+            {
+                $('#viewport').attr('content','initial-scale = 1.0, user-scalable = no');
+                GIFverticalFit();
+            }
+                break;
         }
 
     });

@@ -31,7 +31,7 @@
             <entry file="file://$PROJECT_DIR$/clients/Modelo1/index.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.10474861" vertical-offset="0" max-vertical-offset="4470">
-                  <caret line="5" column="84" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="84" />
+                  <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="69" />
                   <folding />
                 </state>
               </provider>
@@ -44,8 +44,8 @@
           <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/js/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.7364865" vertical-offset="1120" max-vertical-offset="1950">
-                  <caret line="111" column="22" selection-start-line="111" selection-start-column="22" selection-end-line="111" selection-end-column="22" />
+                <state vertical-scroll-proportion="0.5945946" vertical-offset="1180" max-vertical-offset="1950">
+                  <caret line="108" column="67" selection-start-line="108" selection-start-column="67" selection-end-line="108" selection-end-column="67" />
                   <folding />
                 </state>
               </provider>
@@ -742,15 +742,15 @@
     <entry file="file://$PROJECT_DIR$/clients/Modelo1/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.10474861" vertical-offset="0" max-vertical-offset="4470">
-          <caret line="5" column="84" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="84" />
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="69" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7364865" vertical-offset="1120" max-vertical-offset="1950">
-          <caret line="111" column="22" selection-start-line="111" selection-start-column="22" selection-end-line="111" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.5945946" vertical-offset="1180" max-vertical-offset="1950">
+          <caret line="108" column="67" selection-start-line="108" selection-start-column="67" selection-end-line="108" selection-end-column="67" />
           <folding />
         </state>
       </provider>

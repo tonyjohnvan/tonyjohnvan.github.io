@@ -86,7 +86,7 @@ $(function () {
 
             case 0:
             {
-                $('#viewport').attr('content','initial-scale = 1.0, user-scalable = no');
+                $('#viewport').attr('content','width=device-width, initial-scale = 1.0, user-scalable = no');
                 GIFverticalFit();
             }
                 break;
@@ -106,7 +106,7 @@ $(function () {
                 break;
             default :
             {
-                $('#viewport').attr('content','initial-scale = 1.0, user-scalable = no');
+                $('#viewport').attr('content','width=device-width, initial-scale = 1.0, user-scalable = no');
                 GIFverticalFit();
             }
                 break;

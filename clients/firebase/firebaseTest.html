@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        body{
+            width: 100%;
+            background: #adcafd;
+            color: white;
+        }
+        .loginWrap{
+            width: 100%;
+            text-align: center;
+        }
+        .logoHere{
+            width: 50%;
+            position: relative;
+            margin: 20px auto;
+            text-align: center;
+        }
+        .logoHere img{
+            width: 100%;
+            position: relative;
+            margin: 20px auto;
+            text-align: center;
+        }
+        .inputWrap{
+            margin: 20px;
+        }
+        .inputWrap input{
+            width: 60%;
+            height: 30px;
+            text-align: center;
+            border: 0;
+            background: transparent;
+            border-bottom: 2px solid rgba(255,255,255,0.6);
+            color: white;
+            font-size: 20px;
+        }
+        .loginWrap ::-webkit-input-placeholder {
+            color: #fafafa;
+        }
+
+        .loginWrap :-moz-placeholder {
+            color: #fafafa;
+        }
+
+        .loginWrap ::-moz-placeholder {
+            color: #fafafa;
+        }
+
+        .loginWrap :-ms-input-placeholder {
+            color: #fafafa;
+        }
+        .loginButton{
+            background: white;
+            box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, 0.1);
+            border-radius: 3px;
+            color: #adcafd !important;
+            margin: 100px auto;
+            width: 250px;
+            height: 40px;
+            line-height: 40px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+<div class="views tabs toolbar-through no-overflow">
+    <div class="loginWrap" id="view-1">
+        <div class="logoHere">
+            <img src=""
+                 alt=""/>
+        </div>
+        <div class="inputWrap">
+            <input type="text" class="usernameInput" placeholder="Useremail" id="login-sp-email"/>
+        </div>
+        <div class="inputWrap">
+            <input type="password" class="passwordInput" placeholder="Password" id="login-sp-password"/>
+        </div>
+        <div class="loginButton">Login to System</div>
+    </div>
+</div>
+<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="firebase.js"></script>
+<script>
+
+    var ref = new Firebase("https://buyin.firebaseio.com/");
+
+    $('.loginButton').on('click',function(){
+
+        var userEmail = $('#login-sp-email').val();
+        var userPass = $('#login-sp-password').val();
+
+        loginWith(userEmail, userPass);
+    });
+
+    function loginWith(userEmail, userPass) {
+        // verification with Firebase
+        ref.authWithPassword({
+            "email": userEmail,
+            "password": userPass
+        }, function (error, authData) {
+            if (error) {
+                console.log("Login Failed!", error);
+                alert(error.code);
+            } else {
+                console.log("Authenticated successfully with payload:", authData);
+                var hua = prompt("登陆成功", "说一句话我存在数据库里");
+                if (hua != null) {
+                    //Store hua
+                    var userDBRef = new Firebase("https://buyin.firebaseio.com/users/" + ref.getAuth().uid);
+                    userDBRef.update({
+                        testHua: hua
+                    }, function (error) {
+                        if (error) {
+                            console.log("Data could not be saved." + error);
+                            alert(error.code);
+                        } else {
+                            alert('说完了给我发微信我看看');
+                        }
+                    });
+                }
+            }
+        })
+    }
+</script>
+</body>
+</html>

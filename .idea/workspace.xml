@@ -2,10 +2,987 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bec1d80d-fafc-426e-911e-a324406bcd1e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/tonyjohnvan.iml" afterPath="$PROJECT_DIR$/.idea/tonyjohnvan.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mycv/css/styles.css" afterPath="$PROJECT_DIR$/mycv/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mycv/index.html" afterPath="$PROJECT_DIR$/mycv/index.html" />
+      <change beforePath="$PROJECT_DIR$/404.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/CNAME" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/css/bootstrap-theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/css/bootstrap-theme.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/css/bootstrap-theme.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/css/bootstrap.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/css/font-awesome.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/css/index-responsive.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/css/index.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/css/onepagescroll.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/fonts/AvenirNextLTPro-Demi.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/fonts/AvenirNextLTPro-Regular.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/fonts/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/img/3dcomment.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/img/3dcommentS.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/img/BG@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/img/BG@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/img/Modelo_logo_L.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/img/Modelo_logo_L@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/img/Modelo_logo_S.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/img/Modelo_logo_S@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/img/embed.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/img/facebook.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/img/path.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/img/pinterest.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/img/send_email.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/img/shareview.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/img/twitter.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/img/vimeo.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/js/fullPage.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/js/ie-emulation-modes-warning.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/js/ie10-viewport-bug-workaround.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/js/ie8-responsive-file-warning.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/js/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/js/jquery1112.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/js/npm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/js/onepagescroll.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo1/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/css/bootstrap-theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/css/bootstrap-theme.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/css/bootstrap-theme.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/css/bootstrap.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/css/font-awesome.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/css/index-responsive.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/css/index.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/css/onepagescroll.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/fonts/AvenirNextLTPro-Demi.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/fonts/AvenirNextLTPro-Regular.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/fonts/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/img/3dcomment.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/img/3dcommentS.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/img/BG.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/img/BG@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/img/BGOLD.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/img/BGOLD@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/img/Modelo_logo_L.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/img/Modelo_logo_L@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/img/Modelo_logo_S.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/img/Modelo_logo_S@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/img/embed.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/img/facebook.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/img/path.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/img/pinterest.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/img/send_email.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/img/shareview.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/img/twitter.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/img/vimeo.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/js/fullPage.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/js/ie-emulation-modes-warning.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/js/ie10-viewport-bug-workaround.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/js/ie8-responsive-file-warning.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/js/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/js/jquery1112.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/js/npm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/assets/js/onepagescroll.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo2/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/css/bootstrap-theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/css/bootstrap-theme.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/css/bootstrap-theme.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/css/bootstrap.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/css/font-awesome.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/css/index-responsive.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/css/index.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/css/onepagescroll.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/AvenirNextLTPro-Demi.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/AvenirNextLTPro-Regular.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/img/3dcomment.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/img/3dcommentS.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/img/BG.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/img/BG@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/img/BGOLD.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/img/BGOLD@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/img/Modelo_logo_L.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/img/Modelo_logo_L@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/img/Modelo_logo_S.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/img/Modelo_logo_S@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/img/embed.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/img/facebook.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/img/path.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/img/pinterest.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/img/send_email.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/img/shareview.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/img/twitter.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/img/vimeo.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/js/fullPage.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/js/ie-emulation-modes-warning.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/js/ie10-viewport-bug-workaround.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/js/ie8-responsive-file-warning.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/js/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/js/jquery1112.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/js/npm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/assets/js/onepagescroll.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/Modelo3/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/firebase/firebase.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/firebase/firebaseTest.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/NotInUse/bk1.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/NotInUse/bk2.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/NotInUse/indexB.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/NotInUse/indexBKP.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/ajax/personOne.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/ajax/projectOne.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/config/compass.rb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/animsition.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/icon-font/font-awesome.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/icon-font/pe-icon-7.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/jquery.scrollbar.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/grab.cur" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/grab.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/grabbing.cur" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/grabbing.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/loading-1-dark.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/loading-1-light.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/loading-1.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/loading-2-dark.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/loading-2-light.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/loading-2.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/masterslider.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/black-1/black-skin-1-retina.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/black-1/black-skin-1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/black-1/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/black-2/black-skin-2-retina.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/black-2/black-skin-2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/black-2/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/contrast/contrast-skin-retina.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/contrast/contrast-skin.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/contrast/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/default/light-skin-1-retina.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/default/light-skin-1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/default/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/light-2/light-skin-2-retina.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/light-2/light-skin-2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/light-2/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/light-3/light-skin-3-retina.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/light-3/light-skin-3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/light-3/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/light-4/light-skin-4-retina.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/light-4/light-skin-4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/light-4/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/light-5/light-skin-5-retina.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/light-5/light-skin-5.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/light-5/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/light-6/light-skin-6-retina.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/light-6/light-skin-6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/light-6/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/metro/metro-skin-retina.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/metro/metro-skin.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/skins/metro/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/masterslider/video-close-btn.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/css/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/fonts/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/fonts/chinese/PingFang_Bold.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/fonts/chinese/PingFang_ExtraLight.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/fonts/chinese/PingFang_Heavy.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/fonts/chinese/PingFang_Light.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/fonts/chinese/PingFang_Medium.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/fonts/chinese/PingFang_Regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/fonts/pe-icon/Pe-icon-7-filled.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/fonts/pe-icon/Pe-icon-7-filled.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/fonts/pe-icon/Pe-icon-7-filled.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/fonts/pe-icon/Pe-icon-7-filled.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/fonts/pe-icon/Pe-icon-7-stroke.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/fonts/pe-icon/Pe-icon-7-stroke.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/fonts/pe-icon/Pe-icon-7-stroke.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/fonts/pe-icon/Pe-icon-7-stroke.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/fonts/revicons.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/fonts/revicons.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/fonts/revicons.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/fonts/revicons.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/ajax-loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/bx_loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/cbp-loading-popup.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/cbp-loading.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/darkbar.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/hero-img/imac2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/hero-img/proj-1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/hero-img/proj-2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/hero-img/proj-3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/hero-img/proj-4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/hero-img/proj-5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/hero-img/proj-6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/hero-img/thumb/1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/hero-img/thumb/2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/hero-img/thumb/3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/hero-img/thumb/4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/loadinfo.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/location-pointer.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/logo/logo-white.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/logo/logo-white@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/logo/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/logo/logo@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/masterslider/blank.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/media/video-poster.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/pattern/pattern-dark.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/pattern/pattern-light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/pattern/pattern-red.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/images/whitebar.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/js/cubeportfolio.main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/js/custom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/js/custom.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/js/jquery-ui.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/js/jquery.animsition.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/js/jquery.appear.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/js/jquery.bxslider.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/js/jquery.countTo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/js/jquery.cubeportfolio.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/js/jquery.easing.1.3.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/js/jquery.magnific-popup.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/js/jquery.scrollbar.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/js/jquery.v1.11.3.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/js/map-script.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/js/masterslider.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/js/materialmenu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/js/modernizr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/js/retina.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/js/velocity.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/js/video-player.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/media/draw.mp4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/media/draw.ogv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/media/draw.webm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/media/video-poster.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/media/video-thumb.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/person.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/common.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/css/base.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/css/page.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/emails/autoreply.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/emails/notification.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/images/captcha-refresh-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/images/captcha/ar-carter-dark.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/images/captcha/ar-carter-light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/images/captcha/courier-new-dark.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/images/captcha/courier-new-light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/images/captcha/crime-scene-dark.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/images/captcha/crime-scene-light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/images/captcha/default.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/images/captcha/dripping-marker-dark.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/images/captcha/dripping-marker-light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/images/close.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/images/default-loading.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/images/error.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/images/help-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/images/success.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/js/jquery-1.8.3.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/js/plugins.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/js/scripts.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/JSON.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Element.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Element/Date.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Element/File.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Element/Time.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Filter/Alpha.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Filter/AlphaNumeric.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Filter/Digits.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Filter/Filename.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Filter/Interface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Filter/Regex.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Filter/StripTags.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Filter/Trim.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Validator/Abstract.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Validator/Alpha.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Validator/AlphaNumeric.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Validator/Captcha.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Validator/Date.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Validator/Digits.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Validator/Email.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Validator/EmailConfirm.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Validator/FileUpload.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Validator/GreaterThan.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Validator/Identical.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Validator/InArray.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Validator/Interface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Validator/LessThan.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Validator/Recaptcha.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Validator/Regex.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Validator/Required.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Validator/StringLength.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Validator/Time.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/Quform/Validator/WordCount.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/class.phpmailer.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/class.smtp.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/lib/recaptchalib.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/mail-check.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/nojs.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/process-all-elements.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/process-file-uploads.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/process-filters.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/process-groups.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/process-multi-form1.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/process-multi-form2.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/process-v2.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/process-validators.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/process.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/dark/dark.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/dark/images/boxed-group-bg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/dark/images/boxed-group-break-line.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/dark/images/boxed-group-title-bg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/dark/images/button-active-bg-rep.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/dark/images/button-bg-rep.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/dark/images/captcha-refresh-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/dark/images/close.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/dark/images/help-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/dark/images/input-active-bg-rep.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/dark/images/input-bg-rep.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/dark/images/loading.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/dark/rounded.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/light/images/boxed-group-bg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/light/images/boxed-group-break-line.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/light/images/boxed-group-title-bg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/light/images/button-active-bg-rep.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/light/images/button-bg-rep.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/light/images/close.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/light/images/help-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/light/images/input-active-bg-rep.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/light/images/input-bg-rep.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/light/images/refresh-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/light/light.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/light/rounded.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/minimal/dark.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/minimal/images/close-dark.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/minimal/images/close-light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/minimal/images/help-icon-dark.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/minimal/images/help-icon-light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/minimal/images/loading-dark.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/minimal/images/refresh-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/quform/themes/minimal/light.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/register.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/assets/coloredbg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/assets/gridtile.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/assets/gridtile_3x3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/assets/gridtile_3x3_white.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/assets/gridtile_white.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/assets/loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/assets/sources/fb.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/assets/sources/fr.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/assets/sources/ig.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/assets/sources/post.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/assets/sources/revolution_slide1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/assets/sources/revolution_slide2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/assets/sources/tw.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/assets/sources/vm.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/assets/sources/wc.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/assets/sources/yt.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/css/closedhand.cur" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/css/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/css/layers.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/css/navigation-skins/ares.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/css/navigation-skins/custom.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/css/navigation-skins/dione.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/css/navigation-skins/erinyen.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/css/navigation-skins/gyges.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/css/navigation-skins/hades.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/css/navigation-skins/hebe.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/css/navigation-skins/hephaistos.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/css/navigation-skins/hermes.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/css/navigation-skins/hesperiden.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/css/navigation-skins/metis.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/css/navigation-skins/persephone.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/css/navigation-skins/uranus.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/css/navigation-skins/zeus.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/css/navigation.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/css/openhand.cur" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/css/settings.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/fonts/font-awesome/css/font-awesome.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/fonts/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/fonts/font-awesome/css/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/fonts/font-awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/fonts/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/fonts/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/fonts/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/fonts/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/fonts/font-awesome/fonts/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/fonts/font-awesome/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/fonts/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/fonts/pe-icon-7-stroke/css/helper.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/fonts/pe-icon-7-stroke/css/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/fonts/pe-icon-7-stroke/fonts/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/fonts/pe-icon-7-stroke/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/fonts/revicons/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/fonts/revicons/revicons.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/fonts/revicons/revicons.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/fonts/revicons/revicons.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/fonts/revicons/revicons.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/extensions/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/extensions/revolution.extension.actions.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/extensions/revolution.extension.carousel.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/extensions/revolution.extension.kenburn.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/extensions/revolution.extension.layeranimation.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/extensions/revolution.extension.migration.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/extensions/revolution.extension.navigation.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/extensions/revolution.extension.parallax.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/extensions/revolution.extension.slideanims.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/extensions/revolution.extension.video.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/extensions/source/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/extensions/source/revolution.extension.actions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/extensions/source/revolution.extension.carousel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/extensions/source/revolution.extension.kenburn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/extensions/source/revolution.extension.layeranimation.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/extensions/source/revolution.extension.migration.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/extensions/source/revolution.extension.navigation.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/extensions/source/revolution.extension.parallax.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/extensions/source/revolution.extension.slideanims.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/extensions/source/revolution.extension.video.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/jquery.themepunch.enablelog.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/jquery.themepunch.revolution.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/jquery.themepunch.tools.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/source/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/source/jquery.themepunch.enablelog.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/source/jquery.themepunch.revolution.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/js/source/jquery.themepunch.tools.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/php/facebook/class-facebook.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/php/flickr/class-flickr.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/php/instagram/class-instagram.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/php/twitter/RestApi.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/php/twitter/class-twitter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/php/twitter/connection/Application.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/php/twitter/connection/ConnectionAbstract.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/php/twitter/connection/User.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/php/vimeo/class-vimeo.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/revolution/php/youtube/class-youtube.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/scss/layout/_blog.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/scss/layout/_cubeporfolio.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/scss/layout/_extra.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/scss/layout/_footer.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/scss/layout/_header.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/scss/layout/_main.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/scss/layout/_map-wrap.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/scss/layout/_portfolio-item-layout.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/scss/layout/_portfolio-item.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/scss/module/_buttons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/scss/module/_form.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/scss/module/_infographic.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/scss/module/_magnifice-popup.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/scss/module/_slider.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/scss/module/_video-player.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/scss/partials/_animate.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/scss/partials/_global.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/scss/partials/_helper.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/scss/partials/_include-media.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/scss/partials/_main-menu.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/scss/partials/_mixin.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/scss/partials/_mm-menu.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/scss/partials/_reset.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/scss/partials/_setup.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/scss/style.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/team.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/meixinfinance/union.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/404.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/AppleLiGothic.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/ProNW3.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/ProNW4.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/addition.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/blog.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/contact-send.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/contact.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/arrow_large_left.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/arrow_large_right.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/arrow_left.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/arrow_left2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/arrow_right.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/arrow_right2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/arrowleft.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/arrowright.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/arrows.psd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/black50.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/boxed_bgtile.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/bullet.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/bullet_boxed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/bullets.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/bullets.psd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/bullets2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/coloredbg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/grain.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/large_left.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/large_right.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/loader2.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/navigdots.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/navigdots_bgtile.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/shadow1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/shadow2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/shadow3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/small_arrows.psd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/small_left.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/small_left_boxed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/small_right.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/small_right_boxed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/timer.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/timerdot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/transparent.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/assets/white50.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/css/colored.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/css/fancybox.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/css/font-awesome.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/css/isotope.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/css/mqueries.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/css/owl.carousel.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/css/owl.transitions.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/css/pe-icon-7-stroke.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/css/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/fonts/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/fonts/Pe-icon-7-stroke.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/fonts/Pe-icon-7-stroke.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/fonts/Pe-icon-7-stroke.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/fonts/Pe-icon-7-stroke.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/header/3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/header/4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/original/0325_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/original/0325_10.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/original/0325_11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/original/0325_12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/original/0325_13.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/original/0325_14.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/original/0325_15.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/original/0325_16.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/original/0325_17.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/original/0325_18.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/original/0325_19.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/original/0325_2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/original/0325_20.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/original/0325_21.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/original/0325_22.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/original/0325_23.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/original/0325_24.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/original/0325_25.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/original/0325_3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/original/0325_4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/original/0325_5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/original/0325_6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/original/0325_7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/original/0325_8.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/original/0325_9.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/team/1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/team/2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/team/3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/thumb/about.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/thumb/contact.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/thumb/gallery.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/thumb/home.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/img/thumb/home2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/jplayer/Jplayer.swf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/jplayer/controls.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/jplayer/controls@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/jplayer/jplayer.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/jplayer/jquery.jplayer.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/js/jquery-1.9.1.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/js/jquery.bgvideo.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/js/jquery.counter.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/js/jquery.easing.1.3.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/js/jquery.easing.compatibility.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/js/jquery.fancybox.pack.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/js/jquery.fitvids.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/js/jquery.isotope.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/js/jquery.owl.carousel.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/js/jquery.pace.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/js/jquery.parallax.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/js/jquery.scroll.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/js/jquery.visible.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/js/pond-form.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/js/pond-header.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/js/retina.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/js/script.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/arrow_large_left.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/arrow_large_right.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/arrow_left.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/arrow_left2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/arrow_right.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/arrow_right2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/arrowleft.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/arrowright.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/arrows.psd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/black50.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/boxed_bgtile.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/bullet.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/bullet_boxed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/bullets.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/bullets.psd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/bullets2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/coloredbg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/grain.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/gridtile.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/gridtile_3x3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/gridtile_3x3_white.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/gridtile_white.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/large_left.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/large_right.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/loader2.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/navigdots.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/navigdots_bgtile.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/shadow1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/shadow2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/shadow3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/small_arrows.psd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/small_left.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/small_left_boxed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/small_right.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/small_right_boxed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/timer.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/timerdot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/transparent.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/assets/white50.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/css/settings-ie8.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/css/settings.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/font/revicons.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/font/revicons.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/font/revicons.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/font/revicons.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/images/decor_inside.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/images/decor_inside_white.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/images/decor_testimonial.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/images/gradient/g30.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/images/gradient/g40.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/js/jquery.themepunch.enablelog.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/js/jquery.themepunch.revolution.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/js/jquery.themepunch.revolution.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/rs-plugin/js/jquery.themepunch.tools.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/uploads/1690x1100-light.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/uploads/1690x1100.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/uploads/800x1200.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/uploads/800x600.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/uploads/Logo.psd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/uploads/coffee.mp4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/uploads/coffee.ogv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/uploads/coffee.webm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/uploads/favicon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/uploads/logo-placeholder.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/uploads/map-pin.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/uploads/pond-logo-light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/uploads/pond-logo-light@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/uploads/pond-logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/uploads/pond-logo@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/files/uploads/transparent.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/gallery.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/home.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/work.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/works/work-001.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clients/si/works/work-002.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cn/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/css/jquery.countdown.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/css/magnific-popup.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/css/owl.carousel.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/css/owl.theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/css/preloader.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/css/responsive.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fonts/ProNW3.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/indexcn.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/custom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/googleMapInit.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/html5shiv.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-1.11.2.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.countdown.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.magnific-popup.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.matchHeight-min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/modernizr.custom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/okvideo.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/overlay.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/preloader.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/respond.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/scripts.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/blog.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/contact.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/fonts/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/gallery.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/bg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/bgpat.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/detector/android.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/detector/appstore.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/gallery/icon3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/gallery/icon3.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/gallery/icons.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/gallery/icons@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/gallery/loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/highlights/1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/highlights/2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/highlights/3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/highlights/4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/highlights/5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/highlights/6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/highlights/7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/highlights/8.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/address_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/block_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/bookmark_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/briefcase_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/bubble_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/buy_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/calendar_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/clipboard_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/clock_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/delete_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/diagram_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/document_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/down_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/flag_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/folder_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/gear_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/globe_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/heart_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/help_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/home_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/info_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/key_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/label_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/left_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/letter_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/monitor_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/pencil_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/plus_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/present_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/print_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/right_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/save_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/search_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/shield_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/statistics_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/stop_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/tick_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/trash_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/up_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/user_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/wallet_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/lists/warning_48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/logo-dark.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/misc/menu-bg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/mobile1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/mobile1a.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/10.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/10@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/10s.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/11@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/11s.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/12@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/12s.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/13.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/13@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/13s.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/14.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/14@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/14s.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/1@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/1s.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/2@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/2s.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/3@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/3s.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/4@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/4s.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/5@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/5s.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/6@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/6s.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/7@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/7s.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/8.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/8@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/8s.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/9.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/9@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/gallery/9s.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/me.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pics/未标题-4.psd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/1s.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/1t.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/1w.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/1ww.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/2s.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/2t.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/2w.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/2ww.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/3s.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/3t.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/3w.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/3ww.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/4s.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/4t.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/4w.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/4ww.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/5s.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/5t.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/5w.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/5ww.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/6s.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/6t.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/6w.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/6ww.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/7s.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/7t.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/7w.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/7ww.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/8.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/8s.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/8t.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/8w.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/pictures/8ww.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/sidebar-logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/splash/splash-icon-big.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/splash/splash-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/splash/splash-screen-ipad-landscape-retina.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/splash/splash-screen-ipad-landscape.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/splash/splash-screen-ipad-portrait-retina.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/splash/splash-screen-ipad-portrait.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/splash/splash-screen-six-plus.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/splash/splash-screen-six.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/splash/splash-screen.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/splash/splash-screen@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/splash/splash-screen@3x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/status.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/ui/arrow-down.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/ui/arrow-up.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/ui/arrow22@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/ui/arrow2@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/ui/checkbox1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/ui/checkbox1c.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/ui/checkbox2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/ui/checkbox2c.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/ui/checkbox3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/ui/checkbox3c.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/ui/grabbing.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/ui/minus.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/ui/next1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/ui/plus.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/ui/prev1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/ui/radio1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/ui/radio1c.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/ui/radio2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/ui/radio2c.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/images/ui/tick@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/portfolio.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/scripts/contact.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/scripts/custom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/scripts/framework.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/scripts/framework.launcher.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/scripts/framework.plugins.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/scripts/jquery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/scripts/jqueryui.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/styles/animate.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/styles/font-awesome.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/styles/font-awesome2.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/styles/framework.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/styles/owl.theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/styles/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mobile/styles/swipebox.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/override.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugin/owl-carousel/AjaxLoader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugin/owl-carousel/grabbing.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugin/owl-carousel/owl.carousel.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugin/owl-carousel/owl.carousel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugin/owl-carousel/owl.carousel.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugin/owl-carousel/owl.theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugin/owl-carousel/owl.transitions.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugin/owl-carousel/paging-active.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugin/owl-carousel/paging.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/res/bkps.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/style.css" afterPath="" />
     </list>
     <ignored path="tonyjohnvan.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -19,56 +996,11 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="tonyjohnvan" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/js/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1470">
-              <caret line="98" column="22" lean-forward="false" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mycv/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="1409" column="89" lean-forward="false" selection-start-line="1409" selection-start-column="89" selection-end-line="1409" selection-end-column="89" />
-              <folding>
-                <element signature="n#style#0;n#span#0;n#span#0;n#h4#0;n#div#0;n#div#2;n#div#2;n#section#4;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#span#0;n#h4#0;n#div#0;n#div#2;n#div#3;n#section#4;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#span#0;n#h4#0;n#div#0;n#div#2;n#div#4;n#section#4;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#span#0;n#h4#0;n#div#0;n#div#2;n#div#5;n#section#4;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#span#0;n#h4#0;n#div#0;n#div#2;n#div#6;n#section#4;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#2;n#section#5;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#2;n#div#2;n#section#5;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#2;n#div#2;n#section#5;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#2;n#div#2;n#section#5;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#3;n#section#5;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#2;n#div#3;n#section#5;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1485847361000" expanded="false" signature="75076:75087" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mycv/css/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="642" column="1" lean-forward="true" selection-start-line="642" selection-start-column="1" selection-end-line="642" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -134,36 +1066,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonyjohnvan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonyjohnvan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonyjohnvan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tonyjohnvan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mycv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="tonyjohnvan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tonyjohnvan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tonyjohnvan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tonyjohnvan" type="462c0819:PsiDirectoryNode" />
+              <item name="mycv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -185,13 +1105,6 @@
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v5.10.0/bin/node" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/clients" />
-      <recent name="$PROJECT_DIR$/clients/Modelo2/assets/img" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/clients/Modelo1/assets/css" />
-      <recent name="$PROJECT_DIR$/clients/Modelo3/fonts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/clients/Modelo2/assets/img" />
       <recent name="$PROJECT_DIR$/cn" />
@@ -199,10 +1112,172 @@
       <recent name="$PROJECT_DIR$/clients/Modelo2/css" />
       <recent name="$PROJECT_DIR$/css" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/clients" />
+      <recent name="$PROJECT_DIR$/clients/Modelo2/assets/img" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/clients/Modelo1/assets/css" />
+      <recent name="$PROJECT_DIR$/clients/Modelo3/fonts" />
+    </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tonyjohnvan/mycv/index.html">
-      <method />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+    </configuration>
+    <configuration default="true" type="JRubyCucumberRunConfigurationType" factoryName="JRuby Cucumber">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-Dforce.jruby.jit=true -Djruby.debug.fullTrace=true" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tonyjohnvan/mycv/index.html" />
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="tonyjohnvan" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
     </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="" />
@@ -257,21 +1332,6 @@
         <option name="SUPPORT_LIB_ENABLED" value="true" />
         <option name="INSTRUMENTATION_ENABLED" value="true" />
       </Profilers>
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -355,40 +1415,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
-      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
-      <module name="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
-      <method />
-    </configuration>
     <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
       <option name="BCName" value="" />
       <option name="IOSSimulatorSdkPath" value="" />
@@ -462,37 +1488,6 @@
       <setting name="launchBrowserUrl" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="JRubyCucumberRunConfigurationType" factoryName="JRuby Cucumber">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" value="-Dforce.jruby.jit=true -Djruby.debug.fullTrace=true" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
-      <method />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -514,27 +1509,6 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
       <config-file value="" />
       <node-interpreter value="project" />
@@ -542,31 +1516,6 @@
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="tonyjohnvan" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
@@ -613,33 +1562,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
-      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
-      <module name="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
-      <method />
-    </configuration>
     <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
       <setting name="environment" value="" />
       <setting name="specsToExecute" value="" />
@@ -651,9 +1573,6 @@
       <setting name="moduleName" value="" />
       <envMap />
       <setting name="rowsRange" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -682,9 +1601,14 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-    </list>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
     <recent_temporary>
       <list size="1">
         <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
@@ -717,46 +1641,42 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6094000" />
+    <option name="totallyTimeSpent" value="6275000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2560" height="1053" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1920" height="1053" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13270143" sideWeight="0.67" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1330421" sideWeight="0.67" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3256705" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -942,13 +1862,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/css/bootstrap.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/css/bootstrap.min.css">
@@ -966,13 +1886,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/css/bootstrap-theme.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clients/Modelo1/assets/css/bootstrap-theme.min.css">
@@ -1108,7 +2028,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1470">
           <caret line="98" column="22" lean-forward="false" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1116,7 +2035,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="642" column="1" lean-forward="true" selection-start-line="642" selection-start-column="1" selection-end-line="642" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1124,20 +2042,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="387">
           <caret line="1409" column="89" lean-forward="false" selection-start-line="1409" selection-start-column="89" selection-end-line="1409" selection-end-column="89" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#span#0;n#h4#0;n#div#0;n#div#2;n#div#2;n#section#4;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#span#0;n#h4#0;n#div#0;n#div#2;n#div#3;n#section#4;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#span#0;n#h4#0;n#div#0;n#div#2;n#div#4;n#section#4;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#span#0;n#h4#0;n#div#0;n#div#2;n#div#5;n#section#4;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#span#0;n#h4#0;n#div#0;n#div#2;n#div#6;n#section#4;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#2;n#section#5;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#2;n#div#2;n#section#5;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#2;n#div#2;n#section#5;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#2;n#div#2;n#section#5;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#3;n#section#5;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#2;n#div#3;n#section#5;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1485847361000" expanded="false" signature="75076:75087" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>

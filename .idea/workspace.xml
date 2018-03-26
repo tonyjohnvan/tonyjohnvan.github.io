@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bec1d80d-fafc-426e-911e-a324406bcd1e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/404.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/CNAME" afterPath="" />
       <change beforePath="$PROJECT_DIR$/clients/Modelo1.zip" afterPath="" />
       <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/css/bootstrap-theme.css" afterPath="" />
       <change beforePath="$PROJECT_DIR$/clients/Modelo1/assets/css/bootstrap-theme.css.map" afterPath="" />
@@ -742,7 +741,93 @@
       <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterPath="" />
       <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterPath="" />
       <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/Logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/Logo@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/Logo_footer.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/Logo_footer@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/Logo_footerWhite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/Logo_footerWhite@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/Logo_small.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/backgroundWelcome.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/backgroundWelcome.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/backgroundWelcome2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/backgroundWelcome3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/backgroundWelcome@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/backgroundWelcome@2xBKP.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/favicon/AppLogo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/favicon/apple-touch-icon-114x114.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/favicon/apple-touch-icon-120x120.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/favicon/apple-touch-icon-144x144.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/favicon/apple-touch-icon-152x152.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/favicon/apple-touch-icon-57x57.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/favicon/apple-touch-icon-60x60.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/favicon/apple-touch-icon-72x72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/favicon/apple-touch-icon-76x76.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/favicon/apple-touch-icon-precomposed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/favicon/apple-touch-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/favicon/browserconfig.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/favicon/favicon-160x160.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/favicon/favicon-16x16.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/favicon/favicon-196x196.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/favicon/favicon-32x32.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/favicon/favicon-96x96.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/favicon/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/favicon/mstile-144x144.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/favicon/mstile-150x150.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/favicon/mstile-310x310.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/favicon/mstile-70x70.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/10.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/10@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/11@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/12@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/13.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/13@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/14.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/14@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/1@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/2@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/3@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/4@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/5@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/6@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/7@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/8.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/8@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/9.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/9@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/grabbing.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/gradient.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/lineSeparatorBlack.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/lineSeparatorBlack@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/lineSeparatorWhite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/lineSeparatorWhite@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/logoWhite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/logoWhite@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/logoblack.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/logoblack@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/mobileViewBanner.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/portfolioIntro.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/portfolioIntro@2x.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/separatorBlack.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/separatorBlack@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/separatorWhite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/separatorWhite@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/textSeparatorLogo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/textSeparatorLogo@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/textSeparatorLogoWhite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/textSeparatorLogoWhite@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/xsep.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/xsep@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change beforePath="$PROJECT_DIR$/indexcn.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/js/custom.js" afterPath="" />
       <change beforePath="$PROJECT_DIR$/js/googleMapInit.js" afterPath="" />
@@ -971,6 +1056,222 @@
       <change beforePath="$PROJECT_DIR$/mobile/styles/owl.theme.css" afterPath="" />
       <change beforePath="$PROJECT_DIR$/mobile/styles/style.css" afterPath="" />
       <change beforePath="$PROJECT_DIR$/mobile/styles/swipebox.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/PDFs/DiscoverSimpleAssist.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/PDFs/DiscoverSimpleHR_5page.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/PDFs/DiscoverSimpleHR_bifold.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/PDFs/DiscoverSimpleHR_valueandcost.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/PDFs/FZResume.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/PDFs/QuantilusIntelligentLease.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/PDFs/QuantilusVisualShowroomProductDescription.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/apple-touch-icon-144.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/apple-touch-icon-57.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/apple-touch-icon-72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/css/styles.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/avatar.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/background2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/paper-bg-bot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/paper-bg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/paper-bg2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/portfolio-item-thumb.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/portfolio-item-zoom.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/progress-bar.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/progress-education2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/progress-education3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/progress-education4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/progress-mail2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/progress-mail3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/progress-point.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/progress-point2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/progress-point3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/progress-section-title.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/progress-section-title2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/progress-section-title3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/progress-work2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/progress-work3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/timeline-bg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/timeline-bg70.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/works/1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/works/2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/works/3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/works/4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/works/5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/works/6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/works/thumb1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/works/thumb2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/works/thumb3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/works/thumb4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/works/thumb5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/img/works/thumb6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/js/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/contact-form.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/class.phpmailer.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/class.pop3.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/class.smtp.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/extras/class.html2text.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/extras/htmlfilter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/extras/ntlm_sasl_client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-ar.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-br.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-ca.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-ch.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-cz.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-de.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-dk.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-eo.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-es.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-et.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-fi.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-fo.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-fr.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-he.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-hu.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-it.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-ja.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-nl.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-no.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-pl.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-ro.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-ru.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-se.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-sk.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-tr.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-zh.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/php/php-mailer/language/phpmailer.lang-zh_cn.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/animate.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/bootstrap/css/bootstrap-theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/bootstrap/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/bootstrap/css/bootstrap.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/bootstrap/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/cross-browser.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/css/font-awesome.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/less/bordered-pulled.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/less/core.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/less/fixed-width.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/less/font-awesome.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/less/icons.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/less/larger.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/less/list.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/less/mixins.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/less/path.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/less/rotated-flipped.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/less/spinning.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/less/stacked.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/less/variables.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/scss/_core.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/scss/_fixed-width.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/scss/_icons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/scss/_larger.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/scss/_list.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/scss/_mixins.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/scss/_path.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/scss/_spinning.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/scss/_stacked.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/scss/_variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/font-awesome/scss/font-awesome.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/html5shiv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/jquery-1.11.1.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/jquery.bxslider.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/jquery.easing.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/jquery.jcarousel.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/jquery.mousewheel.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/jquery.nicescroll.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/jquery.nicescroll.plus.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/jquery.validate.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/nivo-lightbox/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/nivo-lightbox/changelog.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/nivo-lightbox/license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/nivo-lightbox/nivo-lightbox.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/nivo-lightbox/nivo-lightbox.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/nivo-lightbox/nivo-lightbox.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/nivo-lightbox/themes/default/close.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/nivo-lightbox/themes/default/close@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/nivo-lightbox/themes/default/default.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/nivo-lightbox/themes/default/loading.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/nivo-lightbox/themes/default/loading@2x.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/nivo-lightbox/themes/default/next.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/nivo-lightbox/themes/default/next@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/nivo-lightbox/themes/default/prev.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/nivo-lightbox/themes/default/prev@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/placeholders.jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/README" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/css/prettyPhoto.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/fullscreen/1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/fullscreen/2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/fullscreen/3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/fullscreen/4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/fullscreen/5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/fullscreen/6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/fullscreen/high.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/fullscreen/huge.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/fullscreen/wide.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/dark_rounded/btnNext.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/dark_rounded/btnPrevious.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/dark_rounded/contentPattern.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/dark_rounded/default_thumbnail.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/dark_rounded/loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/dark_rounded/sprite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/dark_square/btnNext.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/dark_square/btnPrevious.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/dark_square/contentPattern.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/dark_square/default_thumbnail.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/dark_square/loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/dark_square/sprite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/default/default_thumb.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/default/loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/default/sprite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/default/sprite_next.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/default/sprite_prev.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/default/sprite_x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/default/sprite_y.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/facebook/btnNext.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/facebook/btnPrevious.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/facebook/contentPatternBottom.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/facebook/contentPatternLeft.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/facebook/contentPatternRight.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/facebook/contentPatternTop.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/facebook/default_thumbnail.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/facebook/loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/facebook/sprite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/light_rounded/btnNext.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/light_rounded/btnPrevious.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/light_rounded/default_thumbnail.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/light_rounded/loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/light_rounded/sprite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/light_square/btnNext.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/light_square/btnPrevious.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/light_square/default_thumbnail.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/light_square/loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/prettyPhoto/light_square/sprite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/thumbnails/flash-logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/thumbnails/quicktime-logo.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/thumbnails/t_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/thumbnails/t_2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/thumbnails/t_3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/thumbnails/t_4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/images/thumbnails/t_5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/js/jquery.prettyPhoto.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/prettyphoto/xhr_response.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/respond.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mycv/vendor/waypoints.min.js" afterPath="" />
       <change beforePath="$PROJECT_DIR$/override.css" afterPath="" />
       <change beforePath="$PROJECT_DIR$/plugin/owl-carousel/AjaxLoader.gif" afterPath="" />
       <change beforePath="$PROJECT_DIR$/plugin/owl-carousel/grabbing.png" afterPath="" />
@@ -1000,7 +1301,18 @@
     <favorites_list name="tonyjohnvan" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="498">
+              <caret line="1764" column="24" lean-forward="false" selection-start-line="1764" selection-start-column="24" selection-end-line="1764" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -1030,6 +1342,7 @@
       <list>
         <option value="$PROJECT_DIR$/mycv/css/styles.css" />
         <option value="$PROJECT_DIR$/mycv/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -1073,11 +1386,6 @@
             <path>
               <item name="tonyjohnvan" type="b2602c69:ProjectViewProjectNode" />
               <item name="tonyjohnvan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tonyjohnvan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tonyjohnvan" type="462c0819:PsiDirectoryNode" />
-              <item name="mycv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1641,13 +1949,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6275000" />
+    <option name="totallyTimeSpent" value="6609000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13270143" sideWeight="0.67" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13270143" sideWeight="0.67" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1662,20 +1971,31 @@
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13270143" sideWeight="0.67" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3256705" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1751,13 +2071,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="1193" column="12" lean-forward="false" selection-start-line="1193" selection-start-column="12" selection-end-line="1193" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="819" column="9" lean-forward="false" selection-start-line="819" selection-start-column="9" selection-end-line="819" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -2042,6 +2355,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="387">
           <caret line="1409" column="89" lean-forward="false" selection-start-line="1409" selection-start-column="89" selection-end-line="1409" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="1764" column="24" lean-forward="false" selection-start-line="1764" selection-start-column="24" selection-end-line="1764" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
